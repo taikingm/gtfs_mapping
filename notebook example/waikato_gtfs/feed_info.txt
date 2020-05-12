@@ -1,0 +1,2 @@
+feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 23-Apr-2020 19:44,,support+busit-nz@trilliumtransit.com,http://support.trilliumtransit.com,20200424,20230429,busit-nz

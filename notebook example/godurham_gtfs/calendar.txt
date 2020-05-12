@@ -1,0 +1,7 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_19867_b_26346_d_127,Reduced Service Phase 3 (COVID-19) (All days of week),1,1,1,1,1,1,1,20200504,20200610
+c_18568_b_24428_d_31,DPS Out or Releasing Early (9B) (Weekday),1,1,1,1,1,0,0,20200611,20200821
+c_18567_b_24427_d_31,DPS In Session (9B-NHS) (Weekday),1,1,1,1,1,0,0,20200824,20201218
+c_18072_b_22720_d_64,Year-Round Service (Sunday only),0,0,0,0,0,0,1,20200611,20201223
+c_18072_b_22720_d_32,Year-Round Service (Saturday only),0,0,0,0,0,1,0,20200611,20201223
+c_18072_b_22720_d_31,Year-Round Service (Weekday),1,1,1,1,1,0,0,20200611,20201223

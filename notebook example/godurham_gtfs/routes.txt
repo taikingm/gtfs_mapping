@@ -1,0 +1,23 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
+241,1762,1,Northgate – North Pointe – Horton Rd/Guess Rd,,3,https://godurhamtransit.org/maps-schedules/godurham/1,ed5328,ffffff,0,120,0,1,1
+241,1777,2,E. Main St – Angier Ave – Brier Creek,,3,https://godurhamtransit.org/maps-schedules/godurham/2,0047ba,ffffff,1,60,0,1,1
+241,1791,7,Forest Hills – Weaver St/S. Roxboro St – MLK Pkwy,,3,https://godurhamtransit.org/maps-schedules/godurham/7,8743bf,ffffff,10,120,0,1,1
+241,1786,8,Lawson St – NCCU – Durham Tech,,3,https://godurhamtransit.org/maps-schedules/godurham/8,db60d5,ffffff,11,150,0,1,1
+241,1788,9A,Dearborn Dr – Duke Regional – Riverside HS,,3,https://godurhamtransit.org/maps-schedules/godurham/9a,eb821a,ffffff,12,120,0,1,1
+241,1789,9B,Dearborn Dr – Riverview – Northern HS,,3,https://godurhamtransit.org/maps-schedules/godurham/9b,b5510e,ffffff,13,120,0,1,1
+241,1787,9,Dearborn Dr – Duke Regional – Riverview (Evening/Sunday),"Only operates Sundays, and after 7:00 PM on weekdays and Saturdays. For daytime service on weekdays and Saturdays use Routes 9A and 9B.",3,https://godurhamtransit.org/maps-schedules/godurham/9,eb821a,ffffff,14,120,0,1,1
+241,1763,10,Chapel Hill Rd – South Square – New Hope Commons,,3,https://godurhamtransit.org/maps-schedules/godurham/10,f08bc5,ffffff,15,90,0,1,1
+241,1765,10B,Chapel Hill Rd – South Square – Shannon Rd,,3,https://godurhamtransit.org/maps-schedules/godurham/10b,cc6698,ffffff,16,60,0,1,1
+241,1767,11,W. Main St – Duke/VA – Hillsborough Rd,,3,https://godurhamtransit.org/maps-schedules/godurham/11,272a67,ffffff,17,60,0,1,1
+241,14490,11B,W. Main St – Duke/VA – Constitution Dr,,3,https://godurhamtransit.org/maps-schedules/godurham/11b,008ecc,ffffff,18,60,0,1,1
+241,1768,12,E. Main St – NCCU – Southpoint,,3,https://godurhamtransit.org/maps-schedules/godurham/12,00a2e8,ffffff,19,120,0,1,1
+241,1780,3,Holloway St – The Village – Glenview Station,,3,https://godurhamtransit.org/maps-schedules/godurham/3,4aa237,ffffff,2,60,0,1,1
+241,4731,12B,E. Main St – NCCU – Durham Station,,3,https://godurhamtransit.org/maps-schedules/godurham/12b,332a73,ffffff,20,120,0,1,1
+241,4506,20,Woodcroft – South Square – Duke/VA Limited,Limited stops. Weekday rush hours only.,3,https://godurhamtransit.org/maps-schedules/godurham/20,f5d03d,000000,21,60,0,1,1
+241,4723,NHS,Northern High School,Only operates when Durham Public Schools is in session and not releasing early. No stops between Northern High School and Durham Station.,3,https://godurhamtransit.org/maps-schedules/godurham/nhs,ffc34a,000000,22,,0,1,1
+241,4508,3B,Holloway St – The Village – Southern HS,,3,https://godurhamtransit.org/maps-schedules/godurham/3b,077730,ffffff,3,60,0,1,1
+241,4509,3C,Holloway St – The Village – Alston Ave,,3,https://godurhamtransit.org/maps-schedules/godurham/3c,7cd820,ffffff,4,60,0,1,1
+241,1781,4,N. Roxboro Rd – Duke Regional – North Duke Crossing,,3,https://godurhamtransit.org/maps-schedules/godurham/4,8743bf,ffffff,6,120,0,1,1
+241,1782,5,Fayetteville St – NCCU – Southpoint,,3,https://godurhamtransit.org/maps-schedules/godurham/5,862633,ffffff,7,90,0,1,1
+241,1783,5K,Fayetteville St – NCCU – MLK Pkwy,,3,https://godurhamtransit.org/maps-schedules/godurham/5k,c33929,ffffff,8,60,0,1,1
+241,1784,6,Chapel Hill St – Duke/VA – Crest St,,3,https://godurhamtransit.org/maps-schedules/godurham/6,ed5328,ffffff,9,120,0,1,1

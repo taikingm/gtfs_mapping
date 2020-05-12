@@ -1,0 +1,9 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
+"41",1,"41","Columbia Pike-Ballston-Court House",3,,,"https://www.arlingtontransit.com/routes-schedules/art-41/"
+"42",1,"42","Ballston-Pentagon",3,,,"https://www.arlingtontransit.com/routes-schedules/art-42/"
+"43",1,"43","Crystal City-Courthouse",3,,,"https://www.arlingtontransit.com/routes-schedules/art-43/"
+"45",1,"45","Columbia Pike-DHS/Sequoia-Rosslyn",3,,,"https://www.arlingtontransit.com/routes-schedules/art-45/"
+"51",1,"51","Ballston-Virginia Hospital Center",3,,,"https://www.arlingtontransit.com/routes-schedules/art-51/"
+"55",1,"55","East Falls Church-Rosslyn",3,,,"https://www.arlingtontransit.com/routes-schedules/art-55/"
+"77",1,"77","Court House-Lyon Park-Shirlington",3,,,"https://www.arlingtontransit.com/routes-schedules/art-77/"
+"87",1,"87","Pentagon City Metro-Army Navy Drive-Shirlington",3,,,"https://www.arlingtontransit.com/routes-schedules/art-87/"

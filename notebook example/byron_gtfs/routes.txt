@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,,Northbound - Casino to Brisbane Int.,,3,,,
+2,1,,Southbound - Brisbane Int. to Casino,,3,,,
+3,1,,Northbound - Byron to Brisbane Int.,,3,,,
+4,1,,Northbound - Byron to Gold Coast,,3,,,
+5,1,,Southbound - Gold Coast to Byron,,3,,,
+6,1,,Southbound - Brisbane Int. to Byron,,3,,,
+7,1,,Northbound - Ballina to Brisbane Int.,,3,,,
+8,1,,Northbound - Pottsville to Brisbane Int.,,3,,,
+9,1,,Southbound - To Pottsville,,3,,,

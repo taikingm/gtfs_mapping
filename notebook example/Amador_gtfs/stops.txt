@@ -1,0 +1,87 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+18986,,,The Oaks Buena Vista,,38.2937614121438,-120.91864453373,769,,0,,America/Los_Angeles,,,0
+18988,,,Scottsville Blvd.,,38.3383667064851,-120.75528405619,768,,0,,America/Los_Angeles,,,0
+18990,,,Raley's,,38.3397493660617,-120.766357799404,768,,0,,America/Los_Angeles,,,0
+18991,,,Rolling Wood/Kennedy Meadows,,38.3630595184938,-120.764139614223,768,,0,,America/Los_Angeles,,,0
+18992,,,CVS Pharmacy,,38.343495,-120.769722,768,,0,,America/Los_Angeles,,,0
+18993,,, Petkovich Park @ Broadway,,38.34815760373,-120.7728801512,768,,0,,America/Los_Angeles,,,0
+18994,,,150 Main St,,38.349617,-120.774533,768,,0,,America/Los_Angeles,,,0
+18995,,,Sutter/Amador Hospital,,38.350284398862,-120.764682162931,768,,0,,America/Los_Angeles,,,0
+18996,,,Castle Park ,,38.350193,-120.95201,769,,0,,America/Los_Angeles,,,0
+18997,,,Ione Park & Ride,,38.352447,-120.934877,769,,0,,America/Los_Angeles,,,0
+18998,,,Josie's Place ,,38.3543,-120.93147,769,,0,,America/Los_Angeles,,,0
+19000,,,Main St. & Hwy. 104 (S. Ione St.),,38.3528251919338,-120.932389440475,769,,0,,America/Los_Angeles,,,0
+19001,,,Court St. Medical Complex,,38.353091,-120.766182,768,,0,,America/Los_Angeles,,,0
+19003,,,Sutter / Shakely Lane,,38.353697,-120.941566,769,,0,,America/Los_Angeles,,,0
+19004,,,Senior Center,,38.3549831920284,-120.768988711558,768,,0,,America/Los_Angeles,,,0
+19006,,,Courthouse,,38.3544,-120.7916,768,,0,,America/Los_Angeles,,,0
+19007,,,Jackson Hills Apts.,,38.3557730774695,-120.766197357928,768,,0,,America/Los_Angeles,,,0
+19008,,,Argonaut & Westview,,38.3570998085996,-120.790879329052,768,,0,,America/Los_Angeles,,,0
+19009,,,Walmart,,38.35798262738,-120.80571450172,768,,0,,America/Los_Angeles,,,0
+19011,,,Jackson Gate Road Apts,,38.36203755512,-120.77779483069,768,,0,,America/Los_Angeles,,,0
+19012,,,Savemart/ Dollar Tree,,38.362458875216,-120.80177036991,768,,0,,America/Los_Angeles,,,0
+19013,,,Dalton & Hwy. 88,,38.362863,-120.732754,769,,0,,America/Los_Angeles,,,0
+19014,,,Staples,,38.368357916865,-120.80135160204,768,,0,,America/Los_Angeles,,,0
+19015,,,Health & Human Services,,38.364492672892,-120.81778879764,768,,0,,America/Los_Angeles,,,0
+19016,,,Sutter Hill Transit Center,,38.3800432058269,-120.80787152052,768,,0,,America/Los_Angeles,,,0
+19018,,,Badger St. & Old Hwy. 49,,38.3920216370705,-120.802812145775,768,,0,,America/Los_Angeles,,,0
+19019,,,Sutter Creek Post Office,,38.395795716539,-120.8025658762,768,,0,,America/Los_Angeles,,,0
+19020,,,Pine Acres,,38.39624,-120.643412,769,,0,,America/Los_Angeles,,,0
+19021,,,Pine Cone Pharmacy,,38.4130283603993,-120.657636028095,769,,0,,America/Los_Angeles,,,0
+19022,,,Kamps Propane,,38.4150898953407,-120.611048264485,770,,0,,America/Los_Angeles,,,0
+19023,,,Pine Grove Town Hall,,38.413215,-120.657692,769,,0,,America/Los_Angeles,,,0
+19024,,,Ridge Road Garden Center,,38.413933,-120.678508,769,,0,,America/Los_Angeles,,,0
+19025,,,Red Corral ,,38.4152256451253,-120.610416049645,770,,0,,America/Los_Angeles,,,0
+19026,,,Pioneer Post Office,,38.430101802159,-120.577582611288,770,,0,,America/Los_Angeles,,,0
+19027,,,Buckhorn Ridge Loop (Pioneer Park),,38.431287,-120.573149,770,,0,,America/Los_Angeles,,,0
+19029,,,IGA Village Market,,38.44303,-120.535155,770,,0,,America/Los_Angeles,,,0
+19030,,,Silver Drive,,38.452104,-120.527756,770,,0,,America/Los_Angeles,,,0
+19031,,,DeMartini - Carbondale Rd.,,38.4523722581767,-120.913153085546,769,,0,,America/Los_Angeles,,,0
+19033,,,Mace Meadows / Sugar Pines ,,38.469719,-120.54476,770,,0,,America/Los_Angeles,,,0
+19034,,,Plymouth Pool,,38.4790723656896,-120.851409137249,769,,0,,America/Los_Angeles,,,0
+19036,,,Rancho Murieta South,,38.4883738299184,-121.081401131728,2360,,0,,America/Los_Angeles,,,0
+19037,,,Amador Station,,38.491824,-120.512016,770,,0,,America/Los_Angeles,,,0
+19039,,,University & 65th (Light rail station and Hornet Line),Light Rail & Green Hornet - To Amtrak,38.5530596566598,-121.426623866944,2359,,0,,America/Los_Angeles,,,0
+19041,,,L St. & 29th St.,Sutter Medical Center,38.571295,-121.468818,2359,,0,,America/Los_Angeles,,,0
+19045,,,L St. & 14th St.,Yolo Bus to Airport,38.576621,-121.488842,2359,,0,,America/Los_Angeles,,,0
+20474,,,Sutter Creek Auditorium,,38.392284,-120.802711,768,,0,,America/Los_Angeles,,,0
+20476,,,Broadway & Clinton,,38.3438936099463,-120.763333244479,768,,0,,America/Los_Angeles,,,0
+20477,,,The Arc,,38.377663,-120.80629,769,,0,,America/Los_Angeles,,,0
+20479,,,Hwy. 16 East of Hedge Ave. (Country Side Diner),Country Side Diner,38.5350449084762,-121.357991210085,2359,,0,,America/Los_Angeles,,,0
+2436341,,,Petkovitch Park - Water St,,38.348336673842,-120.7728976017,768,,0,,America/Los_Angeles,,,0
+2436342,,,Petkovitch Park - Water St (opp.),,38.348454137135,-120.7730004244,768,,0,,America/Los_Angeles,,,0
+2436343,,,Amador High School-Spanish St,,38.398590581659,-120.80961454174,768,,0,,America/Los_Angeles,,,0
+2436344,,,Detert Park / Pool,,38.353902339102,-120.77699003273,768,,0,,America/Los_Angeles,,,0
+2436345,,,Ione Methodist Church,,38.350245039739,-120.93413716485,769,,0,,America/Los_Angeles,,,0
+2441002,,,N. St. & 10th St.,,38.575775610194,-121.49521740003,2359,,0,,America/Los_Angeles,,,0
+2441003,,,Capitol & 3rd,,38.579566966842,-121.50389981886,2359,,0,,America/Los_Angeles,,,0
+2441004,,,N St. &7th,,38.576831797931,-121.49918606093,2359,,0,,America/Los_Angeles,,,0
+2538017,,,N St & 14th st,,38.574171,-121.489175,2359,,0,,America/Los_Angeles,,,0
+2586149,,,Interfaith Food Bank,,38.3759099874773,-120.799821218647,,,0,,America/Los_Angeles,,,0
+27788,,,Drytown,,38.441387,-120.855011,769,,0,,America/Los_Angeles,,,0
+27789,,,Shell Station,,38.4666946472077,-120.854819135,769,,0,,America/Los_Angeles,,,0
+27790,,,Across from Shell Station,,38.466667,-120.85537,769,,0,,America/Los_Angeles,,,0
+27791,,,Drytown ,,38.441109,-120.855202,769,,0,,America/Los_Angeles,,,0
+27793,,,Walgreens,,38.3785887880271,-120.803451310157,768,,0,,America/Los_Angeles,,,0
+27797,,,Clinton & Irishtown Rd. ,,38.3886470868031,-120.674125094145,769,,0,,America/Los_Angeles,,,0
+27798,,,Pine Grove Market ,,38.413078,-120.666122,769,,0,,America/Los_Angeles,,,0
+27799,,,Gayla Dr. ,,38.405251,-120.622612,770,,0,,America/Los_Angeles,,,0
+27800,,,Ranch Rd. (Ranch Home Estates),,38.4080546730333,-120.62009153922,770,,0,,America/Los_Angeles,,,0
+27801,,,Buckhorn Ridge Loop (Pioneer Park),,38.440079,-120.561111,770,,0,,America/Los_Angeles,,,0
+27802,,,Homestead Rd.,,38.4082784486904,-120.620306492065,770,,0,,America/Los_Angeles,,,0
+27803,,,Gayla Dr. ,,38.405354,-120.622375,770,,0,,America/Los_Angeles,,,0
+27804,,,Pine Grove East of Ridge Rd. ,,38.413712,-120.664413,769,,0,,America/Los_Angeles,,,0
+27805,,,Clinton & Irishtown Rd. ,,38.3886376273324,-120.674093799567,769,,0,,America/Los_Angeles,,,0
+27807,,,Hwy 49 at Sutter Hill (laundromat),,38.379081329728,-120.80250285529,768,,0,,America/Los_Angeles,,,0
+27808,,,Broadway & Clinton,,38.3433928384822,-120.762867495501,768,,0,,America/Los_Angeles,,,0
+27810,,,Ione Mobil Home / W. Marlette,,38.350447,-120.950029,769,,0,,America/Los_Angeles,,,0
+27811,,,Hwy 124 (S. Church St.) & Main St.,,38.352615,-120.933349,769,,0,,America/Los_Angeles,,,0
+759026,,,Amador City (Northbound),,38.4191037025913,-120.824483444993,769,,0,,America/Los_Angeles,,,0
+759028,,,"City Park, Main St. Plymouth",,38.48137,-120.8479,769,,0,,America/Los_Angeles,,,0
+759030,,,Amador City (Southbound),,38.4191226835203,-120.824903010552,769,,0,,America/Los_Angeles,,,0
+759031,,,Grocery Outlet,,38.3472540130983,-120.775510285211,768,,0,,America/Los_Angeles,,,0
+759032,,,Main St. - Chamber of Commerce,,38.3491135143458,-120.774341225624,768,,0,,America/Los_Angeles,,,0
+781026,,,Capitol Mall between 8th and 7th,,38.5782050432304,-121.498591504826,2359,,0,,America/Los_Angeles,,,0
+781881,,,W. Marlette & Stonybrook Dr..,,38.349154715842,-120.93972608406,769,,0,,America/Los_Angeles,,,0
+794903,,,Dollar General,,38.413051,-120.668153,769,,0,,America/Los_Angeles,,,0
+794905,,,Rancho Murieta Airport,,38.493499129684,-121.09984912224,2360,,0,,America/Los_Angeles,,,0

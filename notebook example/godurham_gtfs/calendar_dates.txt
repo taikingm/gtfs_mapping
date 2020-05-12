@@ -1,0 +1,9 @@
+service_id,date,holiday_name,exception_type
+c_18567_b_24427_d_31,20201126,Thanksgiving Day,2
+c_18567_b_24427_d_31,20200907,Labor Day,2
+c_18072_b_22720_d_32,20200704,Independence Day - Sunday Service,2
+c_18072_b_22720_d_31,20201126,Thanksgiving Day - Sunday Service,2
+c_18072_b_22720_d_31,20200907,Labor Day - Sunday Service,2
+c_18072_b_22720_d_64,20200704,Independence Day - Sunday Service,1
+c_18072_b_22720_d_64,20201126,Thanksgiving Day - Sunday Service,1
+c_18072_b_22720_d_64,20200907,Labor Day - Sunday Service,1

@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+80,http://amadortransit.com/schedules/,en,Amador Transit,(209) 267-9395,America/Los_Angeles,http://amadortransit.com/fares/

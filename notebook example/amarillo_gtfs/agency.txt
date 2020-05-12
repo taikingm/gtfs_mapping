@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+ACT,Amarillo City Transit,https://amarillo.gov/departments/community-services/transit,America/Chicago,EN,(806) 378-3095,https://amarillo.gov/departments/community-services/transit/fixed-route-information,transit.manager@amarillo.gov

@@ -1,0 +1,143 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,1,1,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,2,2,Northbound (Casino to Brisbane Int.),,0,,,0,0
+2,1,3,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,1,4,Southbound (Brisbane Int. to Casino),,0,,,0,0
+4,1,5,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,4,6,Northbound (Bryon to Gold Coast),,0,,,0,0
+3,1,7,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,1,8,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,1,9,Northbound (Byron to Brisbane Int.),,0,,,0,0
+6,1,10,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,1,11,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,2,12,Southbound (Brisbane Int. to Byron),,0,,,0,0
+5,1,13,Southbound (Gold Coast to Byron),,0,,,0,0
+5,4,14,Southbound (Gold Coast to Byron),,0,,,0,0
+3,1,15,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,2,16,Northbound (Byron to Brisbane Int.),,0,,,0,0
+6,1,17,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,1,18,Southbound (Brisbane Int. to Byron),,0,,,0,0
+4,3,19,Gold Coast Airport,,0,,,0,0
+4,6,20,Gold Coast Airport,,0,,,0,0
+3,3,21,Brisbane International Airport,,0,,,0,0
+3,3,22,Brisbane International Airport,,0,,,0,0
+5,3,23,Byron Bay Visitor Centre,,0,,,0,0
+5,6,24,Byron Bay Visitor Centre,,0,,,0,0
+6,3,25,Byron Bay Visitor Centre,,0,,,0,0
+6,3,26,Byron Bay Visitor Centre,,0,,,0,0
+6,5,27,Byron Bay Visitor Centre,,0,,,0,0
+7,3,28,Brisbane International Airport,,0,,,0,0
+1,3,29,Brisbane International Airport,,0,,,0,0
+1,5,30,Brisbane International Airport,,0,,,0,0
+2,3,31,Casino Visitor Centre,,0,,,0,0
+2,3,32,Casino Visitor Centre,,0,,,0,0
+3,3,33,Brisbane International Airport,,0,,,0,0
+3,5,34,Brisbane International Airport,,0,,,0,0
+6,3,35,Byron Bay Visitor Centre,,0,,,0,0
+6,3,36,Byron Bay Visitor Centre,,0,,,0,0
+2,7,37,Casino Visitor Centre,,0,,,0,0
+2,7,38,Casino Visitor Centre,,0,,,0,0
+1,7,39,Brisbane International Airport,,0,,,0,0
+1,8,40,Brisbane International Airport,,0,,,0,0
+3,7,41,Brisbane International Airport,,0,,,0,0
+3,7,42,Brisbane International Airport,,0,,,0,0
+3,7,43,Brisbane International Airport,,0,,,0,0
+3,7,44,Brisbane International Airport,,0,,,0,0
+3,8,45,Brisbane International Airport,,0,,,0,0
+4,7,46,Gold Coast Airport,,0,,,0,0
+4,9,47,Gold Coast Airport,,0,,,0,0
+5,7,48,Byron Bay Visitor Centre,,0,,,0,0
+6,7,49,Byron Bay Visitor Centre,,0,,,0,0
+6,7,50,Byron Bay Visitor Centre,,0,,,0,0
+6,7,51,Byron Bay Visitor Centre,,0,,,0,0
+6,7,52,Byron Bay Visitor Centre,,0,,,0,0
+6,8,53,Byron Bay Visitor Centre,,0,,,0,0
+5,9,54,Byron Bay Visitor Centre,,0,,,0,0
+7,10,55,Northbound (Ballina to Brisbane Int.),,0,,,0,0
+3,10,56,Northbound (Byron to Brisbane Int.),,0,,,0,0
+4,10,57,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,10,58,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,12,59,Northbound (Bryon to Gold Coast),,0,,,0,0
+3,10,60,Northbound (Byron to Brisbane Int.),,0,,,0,0
+1,10,61,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,11,62,Northbound (Casino to Brisbane Int.),,0,,,0,0
+3,10,63,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,11,64,Northbound (Byron to Brisbane Int.),,0,,,0,0
+5,10,65,Southbound (Gold Coast to Byron),,0,,,0,0
+5,10,66,Southbound (Gold Coast to Byron),,0,,,0,0
+5,12,67,Southbound (Gold Coast to Byron),,0,,,0,0
+6,10,68,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,10,69,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,12,70,Southbound (Brisbane Int. to Byron),,0,,,0,0
+2,10,71,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,10,72,Southbound (Brisbane Int. to Casino),,0,,,0,0
+3,13,73,Northbound (Byron to Brisbane Int.),,0,,,0,0
+4,13,74,Northbound (Bryon to Gold Coast),,0,,,0,0
+7,13,75,Northbound (Ballina to Brisbane Int.),,0,,,0,0
+1,13,76,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,14,77,Northbound (Casino to Brisbane Int.),,0,,,0,0
+4,13,78,Northbound (Bryon to Gold Coast),,0,,,0,0
+3,13,79,Northbound (Byron to Brisbane Int.),,0,,,0,0
+4,15,80,Northbound (Bryon to Gold Coast),,0,,,0,0
+5,13,81,Southbound (Gold Coast to Byron),,0,,,0,0
+5,13,82,Southbound (Gold Coast to Byron),,0,,,0,0
+5,14,83,Southbound (Gold Coast to Byron),,0,,,0,0
+6,13,84,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,13,85,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,15,86,Southbound (Brisbane Int. to Byron),,0,,,0,0
+2,13,87,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,13,88,Southbound (Brisbane Int. to Casino),,0,,,0,0
+3,13,89,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,14,90,Northbound (Byron to Brisbane Int.),,0,,,0,0
+6,13,91,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,13,92,Southbound (Brisbane Int. to Byron),,0,,,0,0
+8,16,93,Northbound (Pottsville to Brisbane Int.),,0,,,0,0
+8,16,94,Northbound (Pottsville to Brisbane Int.),,0,,,0,0
+8,16,95,Northbound (Pottsville to Brisbane Int.),,0,,,0,0
+8,16,96,Northbound (Pottsville to Brisbane Int.),,0,,,0,0
+3,17,97,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,17,98,Northbound (Byron to Brisbane Int.),,0,,,0,0
+4,17,99,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,17,100,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,19,101,Northbound (Bryon to Gold Coast),,0,,,0,0
+7,17,102,Northbound (Ballina to Brisbane Int.),,0,,,0,0
+1,17,103,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,18,104,Northbound (Casino to Brisbane Int.),,0,,,0,0
+3,17,105,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,18,106,Northbound (Byron to Brisbane Int.),,0,,,0,0
+5,17,107,Southbound (Gold Coast to Byron),,0,,,0,0
+5,17,108,Southbound (Gold Coast to Byron),,0,,,0,0
+5,19,109,Southbound (Gold Coast to Byron),,0,,,0,0
+2,17,110,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,17,111,Southbound (Brisbane Int. to Casino),,0,,,0,0
+6,17,112,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,17,113,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,17,114,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,17,115,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,18,116,Southbound (Brisbane Int. to Byron),,0,,,0,0
+1,20,117,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,21,118,Northbound (Casino to Brisbane Int.),,0,,,0,0
+2,20,119,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,20,120,Southbound (Brisbane Int. to Casino),,0,,,0,0
+3,20,121,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,20,122,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,21,123,Northbound (Byron to Brisbane Int.),,0,,,0,0
+3,20,124,Northbound (Byron to Brisbane Int.),,0,,,0,0
+4,20,125,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,20,126,Northbound (Bryon to Gold Coast),,0,,,0,0
+4,22,127,Northbound (Bryon to Gold Coast),,0,,,0,0
+7,20,128,Northbound (Ballina to Brisbane Int.),,0,,,0,0
+5,20,129,Southbound (Gold Coast to Byron),,0,,,0,0
+5,20,130,Southbound (Gold Coast to Byron),,0,,,0,0
+5,21,131,Southbound (Gold Coast to Byron),,0,,,0,0
+6,20,132,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,20,133,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,22,134,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,20,135,Southbound (Brisbane Int. to Byron),,0,,,0,0
+6,20,136,Southbound (Brisbane Int. to Byron),,0,,,0,0
+1,23,138,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,23,137,Northbound (Casino to Brisbane Int.),,0,,,0,0
+1,24,139,Northbound (Casino to Brisbane Int.),,0,,,0,0
+2,23,140,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,23,141,Southbound (Brisbane Int. to Casino),,0,,,0,0
+2,23,142,Southbound (Brisbane Int. to Casino),,0,,,0,0

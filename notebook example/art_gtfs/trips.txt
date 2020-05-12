@@ -1,0 +1,1624 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+"41",1,2542,"Columbia Pike & Dinwiddie",0,4130,132
+"43",1,2543,"Court House Metro Express",1,4321,58
+"51",1,2544,"Ballston Metro",0,5118,95
+"77",1,2545,"Court House Metro",1,7721,137
+"41",2,2546,"Columbia Pike & Dinwiddie",0,4122,132
+"41",3,2547,"Columbia Pike & Dinwiddie",0,4144,14
+"42",2,2548,"Ballston Metro",1,4221,123
+"45",2,2549,"Rosslyn Metro",1,4531,129
+"51",3,2550,"Lee Hwy",1,5109,96
+"55",2,2551,"Rosslyn Metro",0,5532,107
+"77",2,2552,"Court House Metro",1,7721,137
+"87",3,2553,"Pentagon City Metro",1,8751,90
+"77",2,2554,"Court House Metro",1,7720,137
+"77",2,2555,"Court House Metro",1,7721,137
+"77",2,2556,"Court House Metro",1,7720,137
+"77",2,2557,"Court House Metro",1,7721,137
+"77",2,2558,"Court House Metro",1,7720,137
+"77",2,2559,"Court House Metro",1,7721,137
+"77",2,2560,"Court House Metro",1,7720,137
+"77",2,2561,"Court House Metro",1,7721,137
+"77",2,2562,"Court House Metro",1,7731,137
+"77",2,2563,"Court House Metro",1,7732,137
+"77",2,2564,"Court House Metro",1,7731,137
+"77",2,2565,"Court House Metro",1,7732,137
+"77",2,2566,"Court House Metro",1,7731,137
+"77",2,2567,"Court House Metro",1,7732,137
+"77",2,2568,"Court House Metro",1,7731,137
+"77",2,2569,"Court House Metro",1,7732,137
+"77",2,2570,"Court House Metro",1,7731,137
+"77",2,2571,"Court House Metro",1,7732,137
+"77",2,2572,"Court House Metro",1,7731,137
+"77",2,2573,"Court House Metro",1,7732,137
+"77",2,2574,"Court House Metro",1,7731,137
+"77",2,2575,"Court House Metro",1,7732,137
+"77",2,2576,"Court House Metro",1,7731,137
+"77",2,2577,"Court House Metro",1,7732,137
+"77",2,2578,"Court House Metro",1,7731,137
+"87",2,2579,"Shirlington Station",0,8720,89
+"87",2,2580,"Shirlington Station",0,8721,89
+"87",2,2581,"Shirlington Station",0,8720,89
+"87",2,2582,"Shirlington Station",0,8721,89
+"87",2,2583,"Shirlington Station",0,8720,89
+"87",2,2584,"Shirlington Station",0,8721,89
+"87",2,2585,"Shirlington Station",0,8720,89
+"87",2,2586,"Shirlington Station",0,8721,89
+"87",2,2587,"Shirlington Station",0,8720,89
+"87",2,2588,"Shirlington Station",0,8721,89
+"87",2,2589,"Shirlington Station",0,8720,89
+"87",2,2590,"Shirlington Station",0,8721,89
+"87",2,2591,"Shirlington Station",0,8720,89
+"87",2,2592,"Shirlington Station",0,8721,89
+"87",2,2593,"Shirlington Station",0,8720,89
+"87",2,2594,"Shirlington Station",0,8721,89
+"87",2,2595,"Shirlington Station",0,8730,89
+"87",2,2596,"Shirlington Station",0,8731,89
+"87",2,2597,"Shirlington Station",0,8730,89
+"87",2,2598,"Shirlington Station",0,8731,89
+"87",2,2599,"Shirlington Station",0,8730,89
+"87",2,2600,"Shirlington Station",0,8731,89
+"87",2,2601,"Shirlington Station",0,8730,89
+"87",2,2602,"Shirlington Station",0,8731,89
+"87",2,2603,"Shirlington Station",0,8730,89
+"87",2,2604,"Shirlington Station",0,8731,89
+"87",2,2605,"Shirlington Station",0,8730,89
+"87",2,2606,"Shirlington Station",0,8731,89
+"87",2,2607,"Shirlington Station",0,8730,89
+"87",2,2608,"Shirlington Station",0,8731,89
+"87",2,2609,"Shirlington Station",0,8730,89
+"87",2,2610,"Shirlington Station",0,8731,89
+"87",2,2611,"Shirlington Station",0,8730,89
+"87",2,2612,"Pentagon City Metro",1,8720,90
+"87",2,2613,"Pentagon City Metro",1,8721,90
+"87",2,2614,"Pentagon City Metro",1,8720,90
+"87",2,2615,"Pentagon City Metro",1,8721,90
+"87",3,2616,"Pentagon City Metro",1,8750,90
+"87",3,2617,"Pentagon City Metro",1,8751,90
+"87",3,2618,"Pentagon City Metro",1,8750,90
+"87",3,2619,"Pentagon City Metro",1,8751,90
+"87",3,2620,"Pentagon City Metro",1,8750,90
+"87",3,2621,"Pentagon City Metro",1,8751,90
+"87",3,2622,"Pentagon City Metro",1,8750,90
+"87",3,2623,"Pentagon City Metro",1,8751,90
+"87",3,2624,"Pentagon City Metro",1,8750,90
+"41",1,2625,"Columbia Pike & Dinwiddie",0,4130,132
+"41",1,2626,"Columbia Pike & Dinwiddie",0,4130,132
+"41",1,2627,"Court House Metro",1,4130,130
+"41",1,2628,"Court House Metro",1,4130,130
+"41",1,2629,"Court House Metro",1,4130,130
+"41",1,2630,"Court House Metro",1,4130,130
+"41",1,2631,"Court House Metro",1,4130,130
+"41",1,2632,"Court House Metro",1,4130,130
+"41",1,2633,"Columbia Pike & Dinwiddie",0,4131,132
+"41",1,2634,"Columbia Pike & Dinwiddie",0,4131,132
+"41",1,2635,"Columbia Pike & Dinwiddie",0,4131,132
+"41",1,2636,"Columbia Pike & Dinwiddie",0,4131,132
+"41",1,2637,"Columbia Pike & Dinwiddie",0,4131,132
+"41",1,2638,"Court House Metro",1,4131,130
+"41",1,2639,"Court House Metro",1,4131,130
+"41",1,2640,"Court House Metro",1,4131,130
+"41",1,2641,"Court House Metro",1,4131,130
+"41",1,2642,"Court House Metro",1,4131,130
+"41",1,2643,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2644,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2645,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2646,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2647,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2648,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2649,"Columbia Pike & Dinwiddie",0,4132,132
+"41",1,2650,"Court House Metro",1,4132,130
+"41",1,2651,"Court House Metro",1,4132,130
+"41",1,2652,"Court House Metro",1,4132,130
+"41",1,2653,"Court House Metro",1,4132,130
+"41",1,2654,"Court House Metro",1,4132,130
+"41",1,2655,"Court House Metro",1,4132,130
+"41",1,2656,"Court House Metro",1,4132,130
+"41",1,2657,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2658,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2659,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2660,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2661,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2662,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2663,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2664,"Columbia Pike & Dinwiddie",0,4133,132
+"41",1,2665,"Court House Metro",1,4133,130
+"41",1,2666,"Court House Metro",1,4133,130
+"41",1,2667,"Court House Metro",1,4133,130
+"41",1,2668,"Court House Metro",1,4133,130
+"41",1,2669,"Court House Metro",1,4133,130
+"41",1,2670,"Court House Metro",1,4133,130
+"41",1,2671,"Court House Metro",1,4133,130
+"41",1,2672,"Columbia Pike & Dinwiddie",0,4134,132
+"41",1,2673,"Columbia Pike & Dinwiddie",0,4134,132
+"41",1,2674,"Columbia Pike & Dinwiddie",0,4134,132
+"41",1,2675,"Columbia Pike & Dinwiddie",0,4134,132
+"41",1,2676,"Columbia Pike & Dinwiddie",0,4134,132
+"41",1,2677,"Columbia Pike & Dinwiddie",0,4134,132
+"41",1,2678,"Court House Metro",1,4134,130
+"41",1,2679,"Court House Metro",1,4134,130
+"41",1,2680,"Court House Metro",1,4134,130
+"41",1,2681,"Court House Metro",1,4134,130
+"41",1,2682,"Court House Metro",1,4134,130
+"41",1,2683,"Court House Metro",1,4134,130
+"42",1,2684,"Pentagon Metro",0,4220,39
+"42",1,2685,"Pentagon Metro",0,4220,39
+"42",1,2686,"Pentagon Metro",0,4220,39
+"42",1,2687,"Pentagon Metro",0,4220,39
+"42",1,2688,"Pentagon Metro",0,4220,39
+"42",1,2689,"Pentagon Metro",0,4220,39
+"43",1,2690,"Court House Metro Express",1,4321,58
+"43",1,2691,"Court House Metro Express",1,4321,58
+"43",1,2692,"Court House Metro Express",1,4321,58
+"43",1,2693,"Court House Metro Express",1,4321,58
+"43",1,2694,"Court House Metro Express",1,4321,58
+"43",1,2695,"Court House Metro Express",1,4321,58
+"43",1,2696,"Court House Metro Express",1,4321,58
+"43",1,2697,"Court House Metro Express",1,4321,58
+"43",1,2698,"Court House Metro Express",1,4321,58
+"43",1,2699,"Crystal City Express",0,4322,12
+"43",1,2700,"Crystal City Express",0,4322,12
+"43",1,2701,"Crystal City Express",0,4322,12
+"43",1,2702,"Crystal City Express",0,4322,12
+"43",1,2703,"Crystal City Express",0,4322,12
+"43",1,2704,"Crystal City Express",0,4322,12
+"43",1,2705,"Crystal City Express",0,4322,12
+"43",1,2706,"Crystal City Express",0,4322,12
+"43",1,2707,"Crystal City Express",0,4322,12
+"43",1,2708,"Crystal City Express",0,4322,12
+"43",1,2709,"Crystal City Express",0,4322,12
+"43",1,2710,"Crystal City Express",0,4322,12
+"43",1,2711,"Crystal City Express",0,4322,12
+"43",1,2712,"Crystal City Express",0,4322,12
+"43",1,2713,"Court House Metro Express",1,4322,58
+"43",1,2714,"Court House Metro Express",1,4322,58
+"43",1,2715,"Court House Metro Express",1,4322,58
+"43",1,2716,"Court House Metro Express",1,4322,58
+"43",1,2717,"Court House Metro Express",1,4322,58
+"43",1,2718,"Court House Metro Express",1,4322,58
+"43",1,2719,"Court House Metro Express",1,4322,58
+"43",1,2720,"Court House Metro Express",1,4322,58
+"43",1,2721,"Court House Metro Express",1,4322,58
+"43",1,2722,"Court House Metro Express",1,4322,58
+"43",1,2723,"Court House Metro Express",1,4322,58
+"43",1,2724,"Court House Metro Express",1,4322,58
+"43",1,2725,"Court House Metro Express",1,4322,58
+"43",1,2726,"Court House Metro Express",1,4322,58
+"43",1,2727,"Crystal City Express",0,4331,12
+"43",1,2728,"Crystal City Express",0,4331,12
+"43",1,2729,"Crystal City Express",0,4331,12
+"43",1,2730,"Crystal City Express",0,4331,12
+"43",1,2731,"Crystal City Express",0,4331,12
+"43",1,2732,"Crystal City Express",0,4331,12
+"43",1,2733,"Crystal City Express",0,4331,12
+"43",1,2734,"Crystal City Express",0,4331,12
+"43",1,2735,"Crystal City Express",0,4331,12
+"43",1,2736,"Crystal City Express",0,4331,12
+"43",1,2737,"Crystal City Express",0,4331,12
+"43",1,2738,"Crystal City Express",0,4331,12
+"43",1,2739,"Crystal City Express",0,4331,12
+"43",1,2740,"Court House Metro Express",1,4331,58
+"43",1,2741,"Court House Metro Express",1,4331,58
+"43",1,2742,"Court House Metro Express",1,4331,58
+"43",1,2743,"Court House Metro Express",1,4331,58
+"43",1,2744,"Court House Metro Express",1,4331,58
+"43",1,2745,"Court House Metro Express",1,4331,58
+"43",1,2746,"Court House Metro Express",1,4331,58
+"43",1,2747,"Court House Metro Express",1,4331,58
+"43",1,2748,"Court House Metro Express",1,4331,58
+"43",1,2749,"Court House Metro Express",1,4331,58
+"43",1,2750,"Court House Metro Express",1,4331,58
+"43",1,2751,"Court House Metro Express",1,4331,58
+"43",1,2752,"Crystal City Express",0,4332,12
+"43",1,2753,"Crystal City Express",0,4332,12
+"43",1,2754,"Crystal City Express",0,4332,12
+"43",1,2755,"Crystal City Express",0,4332,12
+"43",1,2756,"Crystal City Express",0,4332,12
+"43",1,2757,"Crystal City Express",0,4332,12
+"43",1,2758,"Crystal City Express",0,4332,12
+"43",1,2759,"Crystal City Express",0,4332,12
+"43",1,2760,"Crystal City Express",0,4332,12
+"43",1,2761,"Crystal City Express",0,4332,12
+"51",1,2762,"Ballston Metro",0,5118,95
+"51",1,2763,"Ballston Metro",0,5118,95
+"51",1,2764,"Ballston Metro",0,5118,95
+"51",1,2765,"Ballston Metro",0,5118,95
+"51",1,2766,"Ballston Metro",0,5118,95
+"51",1,2767,"Ballston Metro",0,5118,95
+"51",1,2768,"Ballston Metro",0,5118,95
+"51",1,2769,"Ballston Metro",0,5118,95
+"55",1,2770,"East Falls Church Metro",1,5521,124
+"55",1,2771,"East Falls Church Metro",1,5521,124
+"55",1,2772,"East Falls Church Metro",1,5521,124
+"55",1,2773,"East Falls Church Metro",1,5521,124
+"55",1,2774,"East Falls Church Metro",1,5521,124
+"55",1,2775,"East Falls Church Metro",1,5521,124
+"55",1,2776,"Rosslyn Metro",0,5521,107
+"55",1,2777,"Rosslyn Metro",0,5521,107
+"55",1,2778,"Rosslyn Metro",0,5521,107
+"55",1,2779,"Rosslyn Metro",0,5521,107
+"55",1,2780,"Rosslyn Metro",0,5521,107
+"55",1,2781,"Rosslyn Metro",0,5521,107
+"55",1,2782,"East Falls Church Metro",1,5522,124
+"55",1,2783,"East Falls Church Metro",1,5522,124
+"55",1,2784,"East Falls Church Metro",1,5522,124
+"55",1,2785,"East Falls Church Metro",1,5522,124
+"55",1,2786,"East Falls Church Metro",1,5522,124
+"55",1,2787,"East Falls Church Metro",1,5522,124
+"55",1,2788,"Rosslyn Metro",0,5522,107
+"55",1,2789,"Rosslyn Metro",0,5522,107
+"55",1,2790,"Rosslyn Metro",0,5522,107
+"55",1,2791,"Rosslyn Metro",0,5522,107
+"55",1,2792,"Rosslyn Metro",0,5522,107
+"55",1,2793,"Rosslyn Metro",0,5522,107
+"55",1,2794,"East Falls Church Metro",1,5523,124
+"55",1,2795,"East Falls Church Metro",1,5523,124
+"55",1,2796,"East Falls Church Metro",1,5523,124
+"55",1,2797,"East Falls Church Metro",1,5523,124
+"55",1,2798,"East Falls Church Metro",1,5523,124
+"55",1,2799,"East Falls Church Metro",1,5523,124
+"55",1,2800,"Rosslyn Metro",0,5523,107
+"55",1,2801,"Rosslyn Metro",0,5523,107
+"55",1,2802,"Rosslyn Metro",0,5523,107
+"55",1,2803,"Rosslyn Metro",0,5523,107
+"55",1,2804,"Rosslyn Metro",0,5523,107
+"55",1,2805,"Rosslyn Metro",0,5523,107
+"55",1,2806,"East Falls Church Metro",1,5530,124
+"55",1,2807,"East Falls Church Metro",1,5530,124
+"55",1,2808,"East Falls Church Metro",1,5530,124
+"55",1,2809,"East Falls Church Metro",1,5530,124
+"55",1,2810,"East Falls Church Metro",1,5530,124
+"55",1,2811,"East Falls Church Metro",1,5530,124
+"55",1,2812,"East Falls Church Metro",1,5530,124
+"55",1,2813,"East Falls Church Metro",1,5530,124
+"55",1,2814,"Rosslyn Metro",0,5530,107
+"55",1,2815,"Rosslyn Metro",0,5530,107
+"55",1,2816,"Rosslyn Metro",0,5530,107
+"55",1,2817,"Rosslyn Metro",0,5530,107
+"55",1,2818,"Rosslyn Metro",0,5530,107
+"55",1,2819,"Rosslyn Metro",0,5530,107
+"55",1,2820,"Rosslyn Metro",0,5530,107
+"55",1,2821,"Rosslyn Metro",0,5530,107
+"55",1,2822,"East Falls Church Metro",1,5531,124
+"55",1,2823,"East Falls Church Metro",1,5531,124
+"55",1,2824,"East Falls Church Metro",1,5531,124
+"55",1,2825,"East Falls Church Metro",1,5531,124
+"55",1,2826,"East Falls Church Metro",1,5531,124
+"55",1,2827,"East Falls Church Metro",1,5531,124
+"55",1,2828,"East Falls Church Metro",1,5531,124
+"55",1,2829,"Rosslyn Metro",0,5531,107
+"55",1,2830,"Rosslyn Metro",0,5531,107
+"55",1,2831,"Rosslyn Metro",0,5531,107
+"77",1,2832,"Court House Metro",1,7721,137
+"77",1,2833,"Court House Metro",1,7721,137
+"77",1,2834,"Court House Metro",1,7721,137
+"77",1,2835,"Court House Metro",1,7721,137
+"77",1,2836,"Court House Metro",1,7721,137
+"77",1,2837,"Court House Metro",1,7721,137
+"77",1,2838,"Court House Metro",1,7721,137
+"77",1,2839,"Shirlington Station",0,7731,74
+"77",1,2840,"Shirlington Station",0,7731,74
+"77",1,2841,"Shirlington Station",0,7731,74
+"77",1,2842,"Shirlington Station",0,7731,74
+"77",1,2843,"Shirlington Station",0,7731,74
+"77",1,2844,"Shirlington Station",0,7731,74
+"77",1,2845,"Shirlington Station",0,7731,74
+"77",1,2846,"Shirlington Station",0,7731,74
+"77",1,2847,"Shirlington Station",0,7731,74
+"77",1,2848,"Court House Metro",1,7731,137
+"77",1,2849,"Court House Metro",1,7731,137
+"77",1,2850,"Court House Metro",1,7731,137
+"77",1,2851,"Court House Metro",1,7731,137
+"77",1,2852,"Court House Metro",1,7731,137
+"77",1,2853,"Court House Metro",1,7731,137
+"77",1,2854,"Court House Metro",1,7731,137
+"77",1,2855,"Court House Metro",1,7731,137
+"77",1,2856,"Court House Metro",1,7731,137
+"77",1,2857,"Shirlington Station",0,7732,74
+"77",1,2858,"Shirlington Station",0,7732,74
+"77",1,2859,"Shirlington Station",0,7732,74
+"77",1,2860,"Shirlington Station",0,7732,74
+"77",1,2861,"Shirlington Station",0,7732,74
+"77",1,2862,"Shirlington Station",0,7732,74
+"77",1,2863,"Shirlington Station",0,7732,74
+"77",1,2864,"Shirlington Station",0,7732,74
+"77",1,2865,"Court House Metro",1,7732,137
+"77",1,2866,"Court House Metro",1,7732,137
+"77",1,2867,"Court House Metro",1,7732,137
+"77",1,2868,"Court House Metro",1,7732,137
+"77",1,2869,"Court House Metro",1,7732,137
+"77",1,2870,"Court House Metro",1,7732,137
+"77",1,2871,"Court House Metro",1,7732,137
+"77",1,2872,"Court House Metro",1,7732,137
+"87",1,2873,"Shirlington Station",0,8720,98
+"87",1,2874,"Shirlington Station",0,8720,98
+"87",1,2875,"Shirlington Station",0,8720,98
+"87",1,2876,"Shirlington Station",0,8720,98
+"87",1,2877,"Shirlington Station",0,8720,98
+"87",1,2878,"Shirlington Station",0,8720,98
+"87",1,2879,"Shirlington Station",0,8720,98
+"87",1,2880,"Shirlington Station",0,8720,98
+"87",1,2881,"Pentagon Metro",1,8720,97
+"87",1,2882,"Pentagon Metro",1,8720,97
+"87",1,2883,"Pentagon Metro",1,8720,97
+"87",1,2884,"Pentagon Metro",1,8720,97
+"87",1,2885,"Pentagon Metro",1,8720,97
+"87",1,2886,"Pentagon Metro",1,8720,97
+"87",1,2887,"Pentagon Metro",1,8720,97
+"87",1,2888,"Pentagon Metro",1,8720,97
+"87",1,2889,"Shirlington Station",0,8721,98
+"87",1,2890,"Shirlington Station",0,8721,98
+"87",1,2891,"Shirlington Station",0,8721,98
+"87",1,2892,"Shirlington Station",0,8721,98
+"87",1,2893,"Shirlington Station",0,8721,98
+"41",2,2894,"Columbia Pike & Dinwiddie",0,4124,132
+"41",2,2895,"Columbia Pike & Dinwiddie",0,4130,132
+"41",2,2896,"Columbia Pike & Dinwiddie",0,4131,132
+"41",2,2897,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,2898,"Columbia Pike & Dinwiddie",0,4122,132
+"41",2,2899,"Columbia Pike & Dinwiddie",0,4124,132
+"41",2,2900,"Columbia Pike & Dinwiddie",0,4130,132
+"41",2,2901,"Columbia Pike & Dinwiddie",0,4131,132
+"41",2,2902,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2903,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2904,"Columbia Pike & Dinwiddie",0,4124,132
+"41",2,2905,"Columbia Pike & Dinwiddie",0,4130,132
+"41",2,2906,"Columbia Pike & Dinwiddie",0,4131,132
+"41",2,2907,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2908,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2909,"Columbia Pike & Dinwiddie",0,4134,132
+"41",2,2910,"Columbia Pike & Dinwiddie",0,4130,132
+"41",2,2911,"Columbia Pike & Dinwiddie",0,4131,132
+"41",2,2912,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2913,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2914,"Columbia Pike & Dinwiddie",0,4134,132
+"41",2,2915,"Columbia Pike & Dinwiddie",0,4130,132
+"41",2,2916,"Columbia Pike & Dinwiddie",0,4131,132
+"41",2,2917,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2918,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2919,"Columbia Pike & Dinwiddie",0,4130,132
+"41",2,2920,"Columbia Pike & Dinwiddie",0,4134,132
+"41",2,2921,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2922,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2923,"Columbia Pike & Dinwiddie",0,4134,132
+"41",2,2924,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2925,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2926,"Columbia Pike & Dinwiddie",0,4134,132
+"41",2,2927,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2928,"Columbia Pike & Dinwiddie",0,4132,132
+"41",2,2929,"Columbia Pike & Dinwiddie",0,4134,132
+"41",2,2930,"Columbia Pike & Dinwiddie",0,4133,132
+"41",2,2931,"Court House Metro",1,4120,131
+"41",2,2932,"Court House Metro",1,4121,131
+"41",2,2933,"Court House Metro",1,4122,131
+"41",2,2934,"Court House Metro",1,4123,131
+"41",2,2935,"Court House Metro",1,4120,130
+"41",2,2936,"Court House Metro",1,4121,130
+"41",2,2937,"Court House Metro",1,4122,130
+"41",2,2938,"Court House Metro",1,4123,130
+"41",2,2939,"Court House Metro",1,4120,130
+"41",2,2940,"Court House Metro",1,4121,130
+"41",2,2941,"Court House Metro",1,4122,130
+"41",2,2942,"Court House Metro",1,4123,130
+"41",2,2943,"Court House Metro",1,4120,130
+"41",2,2944,"Court House Metro",1,4121,130
+"41",2,2945,"Court House Metro",1,4122,130
+"41",2,2946,"Court House Metro",1,4124,131
+"41",2,2947,"Court House Metro",1,4123,130
+"41",2,2948,"Court House Metro",1,4120,130
+"41",2,2949,"Court House Metro",1,4121,130
+"41",2,2950,"Court House Metro",1,4122,130
+"41",2,2951,"Court House Metro",1,4124,130
+"41",2,2952,"Court House Metro",1,4123,130
+"41",2,2953,"Court House Metro",1,4120,130
+"41",2,2954,"Court House Metro",1,4121,130
+"41",2,2955,"Court House Metro",1,4122,130
+"41",2,2956,"Court House Metro",1,4124,130
+"41",3,2957,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2958,"Columbia Pike & Dinwiddie",0,4153,14
+"41",3,2959,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2960,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,2961,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2962,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2963,"Columbia Pike & Dinwiddie",0,4153,14
+"41",3,2964,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2965,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,2966,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2967,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2968,"Columbia Pike & Dinwiddie",0,4153,14
+"41",3,2969,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2970,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,2971,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2972,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2973,"Columbia Pike & Dinwiddie",0,4153,14
+"41",3,2974,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2975,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2976,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2977,"Columbia Pike & Dinwiddie",0,4153,14
+"41",3,2978,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2979,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2980,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2981,"Columbia Pike & Dinwiddie",0,4153,14
+"41",3,2982,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2984,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2985,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2986,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2987,"Columbia Pike & Dinwiddie",0,4154,14
+"41",3,2988,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,2989,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,2990,"Court House Metro",1,4141,59
+"41",3,2991,"Court House Metro",1,4142,59
+"41",3,2992,"Court House Metro",1,4143,59
+"41",3,2993,"Court House Metro",1,4141,15
+"41",3,2994,"Court House Metro",1,4142,15
+"41",3,2995,"Court House Metro",1,4143,15
+"41",3,2996,"Court House Metro",1,4141,15
+"41",3,2997,"Court House Metro",1,4144,59
+"41",3,2998,"Court House Metro",1,4142,15
+"41",3,2999,"Court House Metro",1,4143,15
+"41",3,3000,"Court House Metro",1,4141,15
+"41",3,3001,"Court House Metro",1,4144,15
+"41",3,3002,"Court House Metro",1,4142,15
+"41",3,3003,"Court House Metro",1,4143,15
+"41",3,3004,"Court House Metro",1,4141,15
+"41",3,3005,"Court House Metro",1,4145,59
+"41",3,3006,"Court House Metro",1,4144,15
+"41",3,3007,"Court House Metro",1,4142,15
+"41",3,3008,"Court House Metro",1,4143,15
+"41",3,3009,"Court House Metro",1,4141,15
+"41",3,3010,"Court House Metro",1,4145,15
+"41",3,3011,"Court House Metro",1,4144,15
+"41",3,3012,"Court House Metro",1,4142,15
+"41",3,3013,"Court House Metro",1,4143,15
+"41",3,3014,"Court House Metro",1,4141,15
+"41",3,3015,"Court House Metro",1,4145,15
+"41",3,3016,"Court House Metro",1,4144,15
+"41",3,3017,"Court House Metro",1,4151,15
+"41",3,3018,"Court House Metro",1,4143,15
+"41",3,3019,"Court House Metro",1,4152,15
+"41",3,3020,"Court House Metro",1,4145,15
+"41",3,3021,"Court House Metro",1,4144,15
+"41",3,3022,"Court House Metro",1,4151,15
+"41",3,3023,"Court House Metro",1,4153,15
+"41",3,3024,"Court House Metro",1,4152,15
+"42",2,3025,"Ballston Metro",1,4220,123
+"42",2,3026,"Ballston Metro",1,4221,123
+"42",2,3027,"Ballston Metro",1,4220,123
+"42",2,3028,"Ballston Metro",1,4221,123
+"42",2,3029,"Ballston Metro",1,4230,123
+"42",2,3030,"Ballston Metro",1,4231,123
+"42",2,3031,"Ballston Metro",1,4230,123
+"42",2,3032,"Ballston Metro",1,4231,123
+"42",2,3033,"Ballston Metro",1,4230,123
+"42",2,3034,"Ballston Metro",1,4231,123
+"42",2,3035,"Ballston Metro",1,4230,123
+"42",2,3036,"Ballston Metro",1,4231,123
+"42",2,3037,"Ballston Metro",1,4230,123
+"42",2,3038,"Ballston Metro",1,4231,123
+"42",2,3039,"Ballston Metro",1,4230,123
+"42",2,3040,"Ballston Metro",1,4231,123
+"42",2,3041,"Ballston Metro",1,4230,123
+"42",2,3042,"Ballston Metro",1,4231,123
+"42",3,3043,"Pentagon City Metro",0,4240,134
+"42",3,3044,"Pentagon City Metro",0,4241,134
+"42",3,3045,"Pentagon City Metro",0,4240,134
+"42",3,3046,"Pentagon City Metro",0,4241,134
+"42",3,3047,"Pentagon City Metro",0,4240,134
+"42",3,3048,"Pentagon City Metro",0,4241,134
+"42",3,3049,"Pentagon City Metro",0,4240,134
+"42",3,3050,"Pentagon City Metro",0,4241,134
+"42",3,3051,"Pentagon City Metro",0,4240,134
+"42",3,3052,"Pentagon City Metro",0,4241,134
+"42",3,3053,"Pentagon City Metro",0,4250,134
+"42",3,3054,"Pentagon City Metro",0,4251,134
+"42",3,3055,"Pentagon City Metro",0,4250,134
+"42",3,3056,"Pentagon City Metro",0,4251,134
+"42",3,3057,"Pentagon City Metro",0,4250,134
+"42",3,3058,"Pentagon City Metro",0,4251,134
+"42",3,3059,"Pentagon City Metro",0,4250,134
+"42",3,3060,"Pentagon City Metro",0,4251,134
+"42",3,3061,"Pentagon City Metro",0,4250,134
+"42",3,3062,"Pentagon City Metro",0,4251,134
+"42",3,3063,"Pentagon City Metro",0,4250,134
+"42",3,3064,"Pentagon City Metro",0,4251,134
+"42",3,3065,"Pentagon City Metro",0,4250,134
+"42",3,3066,"Pentagon City Metro",0,4251,134
+"42",3,3067,"Pentagon City Metro",0,4250,134
+"42",3,3068,"Ballston Metro",1,4240,123
+"42",3,3069,"Ballston Metro",1,4241,123
+"42",3,3070,"Ballston Metro",1,4240,123
+"42",3,3071,"Ballston Metro",1,4241,123
+"42",3,3072,"Ballston Metro",1,4240,123
+"42",3,3073,"Ballston Metro",1,4241,123
+"42",3,3074,"Ballston Metro",1,4240,123
+"42",3,3075,"Ballston Metro",1,4241,123
+"42",3,3076,"Ballston Metro",1,4240,123
+"42",3,3077,"Ballston Metro",1,4241,123
+"42",3,3078,"Ballston Metro",1,4250,123
+"42",3,3079,"Ballston Metro",1,4251,123
+"42",3,3080,"Ballston Metro",1,4250,123
+"42",3,3081,"Ballston Metro",1,4251,123
+"42",3,3082,"Ballston Metro",1,4250,123
+"42",3,3083,"Ballston Metro",1,4251,123
+"45",2,3084,"Rosslyn Metro",1,4532,129
+"45",2,3085,"Rosslyn Metro",1,4530,129
+"45",2,3086,"Rosslyn Metro",1,4531,129
+"45",3,3087,"Columbia Pike & Dinwiddie",0,4541,127
+"45",3,3088,"Columbia Pike & Dinwiddie",0,4542,127
+"45",3,3089,"Columbia Pike & Dinwiddie",0,4543,127
+"45",3,3090,"Columbia Pike & Dinwiddie",0,4541,127
+"45",3,3091,"Columbia Pike & Dinwiddie",0,4542,127
+"45",3,3092,"Columbia Pike & Dinwiddie",0,4543,127
+"45",3,3093,"Columbia Pike & Dinwiddie",0,4541,127
+"45",3,3094,"Columbia Pike & Dinwiddie",0,4542,127
+"45",3,3095,"Columbia Pike & Dinwiddie",0,4543,127
+"45",3,3096,"Columbia Pike & Dinwiddie",0,4541,127
+"45",3,3097,"Columbia Pike & Dinwiddie",0,4542,127
+"45",3,3098,"Columbia Pike & Dinwiddie",0,4543,127
+"45",3,3099,"Columbia Pike & Dinwiddie",0,4541,127
+"45",3,3100,"Columbia Pike & Dinwiddie",0,4542,127
+"45",3,3101,"Columbia Pike & Dinwiddie",0,4543,127
+"45",3,3102,"Columbia Pike & Dinwiddie",0,4551,127
+"45",3,3103,"Columbia Pike & Dinwiddie",0,4552,127
+"45",3,3104,"Columbia Pike & Dinwiddie",0,4553,127
+"45",3,3105,"Columbia Pike & Dinwiddie",0,4551,127
+"45",3,3106,"Columbia Pike & Dinwiddie",0,4552,127
+"45",3,3107,"Columbia Pike & Dinwiddie",0,4553,127
+"45",3,3108,"Columbia Pike & Dinwiddie",0,4551,127
+"45",3,3109,"Columbia Pike & Dinwiddie",0,4552,127
+"45",3,3110,"Columbia Pike & Dinwiddie",0,4553,127
+"45",3,3111,"Columbia Pike & Dinwiddie",0,4551,127
+"45",3,3112,"Columbia Pike & Dinwiddie",0,4552,127
+"45",3,3113,"Columbia Pike & Dinwiddie",0,4553,127
+"45",3,3114,"Columbia Pike & Dinwiddie",0,4551,127
+"45",3,3115,"Columbia Pike & Dinwiddie",0,4552,127
+"45",3,3116,"Columbia Pike & Dinwiddie",0,4553,127
+"45",3,3117,"Columbia Pike & Dinwiddie",0,4551,127
+"45",3,3118,"Columbia Pike & Dinwiddie",0,4552,127
+"45",3,3119,"Rosslyn Metro",1,4541,128
+"45",3,3120,"Rosslyn Metro",1,4542,128
+"45",3,3121,"Rosslyn Metro",1,4543,128
+"45",3,3122,"Rosslyn Metro",1,4541,129
+"45",3,3123,"Rosslyn Metro",1,4542,129
+"45",3,3124,"Rosslyn Metro",1,4543,129
+"45",3,3125,"Rosslyn Metro",1,4541,129
+"45",3,3126,"Rosslyn Metro",1,4542,129
+"45",3,3127,"Rosslyn Metro",1,4543,129
+"45",3,3128,"Rosslyn Metro",1,4541,129
+"45",3,3129,"Rosslyn Metro",1,4542,129
+"45",3,3130,"Rosslyn Metro",1,4543,129
+"45",3,3131,"Rosslyn Metro",1,4541,129
+"45",3,3132,"Rosslyn Metro",1,4542,129
+"45",3,3133,"Rosslyn Metro",1,4543,129
+"45",3,3134,"Rosslyn Metro",1,4551,129
+"45",3,3135,"Rosslyn Metro",1,4552,129
+"45",3,3136,"Rosslyn Metro",1,4553,129
+"45",3,3137,"Rosslyn Metro",1,4551,129
+"45",3,3138,"Rosslyn Metro",1,4552,129
+"45",3,3139,"Rosslyn Metro",1,4553,129
+"45",3,3140,"Rosslyn Metro",1,4551,129
+"45",3,3141,"Rosslyn Metro",1,4552,129
+"45",3,3142,"Rosslyn Metro",1,4553,129
+"45",3,3143,"Rosslyn Metro",1,4551,129
+"45",3,3144,"Rosslyn Metro",1,4552,129
+"45",3,3145,"Rosslyn Metro",1,4553,129
+"45",3,3146,"Rosslyn Metro",1,4551,129
+"45",3,3147,"Rosslyn Metro",1,4552,129
+"45",3,3148,"Rosslyn Metro",1,4553,129
+"45",3,3149,"Rosslyn Metro",1,4551,129
+"45",3,3150,"Rosslyn Metro",1,4552,129
+"51",2,3151,"Lee Hwy",1,5108,96
+"51",2,3152,"Lee Hwy",1,5108,96
+"51",2,3153,"Lee Hwy",1,5108,96
+"51",3,3154,"Lee Hwy",1,5109,96
+"51",3,3155,"Lee Hwy",1,5109,96
+"51",3,3156,"Lee Hwy",1,5109,96
+"51",3,3157,"Lee Hwy",1,5109,96
+"51",3,3158,"Lee Hwy",1,5109,96
+"51",3,3159,"Lee Hwy",1,5109,96
+"51",3,3160,"Lee Hwy",1,5109,96
+"51",3,3161,"Lee Hwy",1,5109,96
+"51",3,3162,"Lee Hwy",1,5109,96
+"51",3,3163,"Lee Hwy",1,5109,96
+"51",3,3164,"Lee Hwy",1,5109,96
+"51",3,3165,"Lee Hwy",1,5109,96
+"51",3,3166,"Lee Hwy",1,5109,96
+"51",3,3167,"Lee Hwy",1,5120,96
+"51",3,3168,"Lee Hwy",1,5120,96
+"51",3,3169,"Lee Hwy",1,5120,96
+"51",3,3170,"Lee Hwy",1,5120,96
+"51",3,3171,"Lee Hwy",1,5120,96
+"51",3,3172,"Lee Hwy",1,5120,96
+"51",3,3173,"Lee Hwy",1,5120,96
+"51",3,3174,"Lee Hwy",1,5120,96
+"51",3,3175,"Lee Hwy",1,5120,96
+"51",3,3176,"Lee Hwy",1,5120,96
+"51",3,3177,"Lee Hwy",1,5120,96
+"51",3,3178,"Lee Hwy",1,5120,96
+"51",3,3179,"Lee Hwy",1,5120,96
+"51",3,3180,"Lee Hwy",1,5120,96
+"51",3,3181,"Lee Hwy",1,5120,96
+"51",3,3182,"Lee Hwy",1,5120,96
+"51",3,3183,"Lee Hwy",1,5120,96
+"51",3,3184,"Ballston Metro",0,5109,95
+"51",3,3185,"Ballston Metro",0,5109,95
+"51",3,3186,"Ballston Metro",0,5109,95
+"51",3,3187,"Ballston Metro",0,5109,95
+"51",3,3188,"Ballston Metro",0,5109,95
+"51",3,3189,"Ballston Metro",0,5109,95
+"51",3,3190,"Ballston Metro",0,5109,95
+"51",3,3191,"Ballston Metro",0,5109,95
+"51",3,3192,"Ballston Metro",0,5109,95
+"51",3,3193,"Ballston Metro",0,5109,95
+"51",3,3194,"Ballston Metro",0,5109,95
+"51",3,3195,"Ballston Metro",0,5109,95
+"51",3,3196,"Ballston Metro",0,5109,95
+"51",3,3197,"Ballston Metro",0,5109,95
+"51",3,3198,"Ballston Metro",0,5109,95
+"51",3,3199,"Ballston Metro",0,5120,95
+"51",3,3200,"Ballston Metro",0,5120,95
+"51",3,3201,"Ballston Metro",0,5120,95
+"51",3,3202,"Ballston Metro",0,5120,95
+"51",3,3203,"Ballston Metro",0,5120,95
+"51",3,3204,"Ballston Metro",0,5120,95
+"51",3,3205,"Ballston Metro",0,5120,95
+"51",3,3206,"Ballston Metro",0,5120,95
+"51",3,3207,"Ballston Metro",0,5120,95
+"51",3,3208,"Ballston Metro",0,5120,95
+"51",3,3209,"Ballston Metro",0,5120,95
+"51",3,3210,"Ballston Metro",0,5120,95
+"51",3,3211,"Ballston Metro",0,5120,95
+"51",3,3212,"Ballston Metro",0,5120,95
+"51",3,3213,"Ballston Metro",0,5120,95
+"51",3,3214,"Ballston Metro",0,5120,95
+"55",2,3215,"East Falls Church Metro",1,5522,124
+"55",2,3216,"East Falls Church Metro",1,5523,124
+"55",2,3217,"East Falls Church Metro",1,5521,124
+"55",2,3218,"East Falls Church Metro",1,5522,124
+"55",2,3219,"East Falls Church Metro",1,5523,124
+"55",2,3220,"East Falls Church Metro",1,5521,124
+"55",2,3221,"East Falls Church Metro",1,5522,124
+"55",2,3222,"East Falls Church Metro",1,5523,124
+"55",2,3223,"East Falls Church Metro",1,5521,124
+"55",2,3224,"East Falls Church Metro",1,5522,124
+"55",2,3225,"Rosslyn Metro",0,5530,107
+"55",2,3226,"Rosslyn Metro",0,5531,107
+"55",2,3227,"Rosslyn Metro",0,5532,107
+"55",2,3228,"Rosslyn Metro",0,5530,107
+"55",2,3229,"Rosslyn Metro",0,5531,107
+"55",2,3230,"Rosslyn Metro",0,5532,107
+"55",2,3231,"Rosslyn Metro",0,5530,107
+"55",2,3232,"Rosslyn Metro",0,5531,107
+"55",2,3233,"Rosslyn Metro",0,5532,107
+"55",2,3234,"Rosslyn Metro",0,5530,107
+"55",2,3235,"Rosslyn Metro",0,5533,107
+"55",2,3236,"Rosslyn Metro",0,5534,107
+"55",2,3237,"Rosslyn Metro",0,5530,107
+"55",2,3238,"Rosslyn Metro",0,5533,107
+"55",2,3239,"Rosslyn Metro",0,5534,107
+"55",2,3240,"Rosslyn Metro",0,5533,107
+"55",2,3241,"Rosslyn Metro",0,5534,107
+"55",2,3242,"Rosslyn Metro",0,5533,107
+"55",2,3243,"Rosslyn Metro",0,5534,107
+"55",2,3244,"Rosslyn Metro",0,5533,107
+"55",2,3245,"Rosslyn Metro",0,5534,107
+"55",2,3246,"Rosslyn Metro",0,5533,107
+"55",2,3247,"Rosslyn Metro",0,5534,107
+"55",3,3248,"East Falls Church Metro",1,5541,124
+"55",3,3249,"East Falls Church Metro",1,5542,124
+"55",3,3250,"East Falls Church Metro",1,5541,124
+"55",3,3251,"East Falls Church Metro",1,5542,124
+"55",3,3252,"East Falls Church Metro",1,5541,124
+"55",3,3253,"East Falls Church Metro",1,5542,124
+"55",3,3254,"East Falls Church Metro",1,5541,124
+"55",3,3255,"East Falls Church Metro",1,5542,124
+"55",3,3256,"East Falls Church Metro",1,5541,124
+"55",3,3257,"East Falls Church Metro",1,5542,124
+"55",3,3258,"East Falls Church Metro",1,5541,124
+"55",3,3259,"East Falls Church Metro",1,5542,124
+"55",3,3260,"East Falls Church Metro",1,5541,124
+"55",3,3261,"East Falls Church Metro",1,5542,124
+"55",3,3262,"East Falls Church Metro",1,5541,124
+"55",3,3263,"East Falls Church Metro",1,5542,124
+"55",3,3264,"East Falls Church Metro",1,5551,124
+"55",3,3265,"East Falls Church Metro",1,5550,124
+"55",3,3266,"East Falls Church Metro",1,5551,124
+"55",3,3267,"East Falls Church Metro",1,5550,124
+"55",3,3268,"East Falls Church Metro",1,5551,124
+"55",3,3269,"East Falls Church Metro",1,5550,124
+"55",3,3270,"East Falls Church Metro",1,5551,124
+"55",3,3271,"East Falls Church Metro",1,5550,124
+"55",3,3272,"East Falls Church Metro",1,5551,124
+"55",3,3273,"East Falls Church Metro",1,5550,124
+"55",3,3274,"East Falls Church Metro",1,5551,124
+"55",3,3275,"East Falls Church Metro",1,5550,124
+"55",3,3276,"East Falls Church Metro",1,5551,124
+"55",3,3277,"East Falls Church Metro",1,5550,124
+"55",3,3278,"East Falls Church Metro",1,5551,124
+"55",3,3279,"East Falls Church Metro",1,5550,124
+"55",3,3280,"East Falls Church Metro",1,5551,124
+"55",3,3281,"East Falls Church Metro",1,5550,124
+"55",3,3282,"East Falls Church Metro",1,5551,124
+"55",3,3283,"Rosslyn Metro",0,5541,107
+"55",3,3284,"Rosslyn Metro",0,5542,107
+"55",3,3285,"Rosslyn Metro",0,5541,107
+"55",3,3286,"Rosslyn Metro",0,5542,107
+"55",3,3287,"Rosslyn Metro",0,5541,107
+"55",3,3288,"Rosslyn Metro",0,5542,107
+"55",3,3289,"Rosslyn Metro",0,5541,107
+"55",3,3290,"Rosslyn Metro",0,5542,107
+"55",3,3291,"Rosslyn Metro",0,5541,107
+"55",3,3292,"Rosslyn Metro",0,5542,107
+"55",3,3293,"Rosslyn Metro",0,5541,107
+"55",3,3294,"Rosslyn Metro",0,5542,107
+"42",1,3295,"Ballston Metro",1,4220,40
+"43",1,3296,"Crystal City Express",0,4332,12
+"45",1,3297,"Rosslyn Metro",1,4532,129
+"55",1,3298,"Rosslyn Metro",0,5531,107
+"87",1,3299,"Shirlington Station",0,8721,98
+"41",2,3300,"Court House Metro",1,4130,130
+"41",3,3301,"Court House Metro",1,4145,15
+"42",3,3302,"Ballston Metro",1,4250,123
+"51",2,3303,"Lee Hwy",1,5108,96
+"55",2,3304,"East Falls Church Metro",1,5523,124
+"55",3,3305,"Rosslyn Metro",0,5541,107
+"87",2,3306,"Pentagon City Metro",1,8720,90
+"45",1,3307,"Columbia Pike & Dinwiddie",0,4532,127
+"45",1,3308,"Rosslyn Metro",1,4532,129
+"45",1,3309,"Columbia Pike & Dinwiddie",0,4532,127
+"45",1,3310,"Rosslyn Metro",1,4532,129
+"45",1,3311,"Columbia Pike & Dinwiddie",0,4532,127
+"45",1,3312,"Rosslyn Metro",1,4532,129
+"45",1,3313,"Columbia Pike & Dinwiddie",0,4532,127
+"51",1,3314,"Lee Hwy",1,5108,96
+"51",1,3315,"Lee Hwy",1,5108,96
+"51",1,3316,"Lee Hwy",1,5108,96
+"51",1,3317,"Lee Hwy",1,5108,96
+"51",1,3318,"Lee Hwy",1,5108,96
+"51",1,3319,"Lee Hwy",1,5108,96
+"51",1,3320,"Lee Hwy",1,5108,96
+"51",1,3321,"Lee Hwy",1,5108,96
+"51",1,3322,"Lee Hwy",1,5108,96
+"51",1,3323,"Lee Hwy",1,5108,96
+"51",1,3324,"Lee Hwy",1,5108,96
+"51",1,3325,"Lee Hwy",1,5108,96
+"51",1,3326,"Lee Hwy",1,5108,96
+"51",1,3327,"Lee Hwy",1,5108,96
+"51",1,3328,"Lee Hwy",1,5108,96
+"51",1,3329,"Lee Hwy",1,5108,96
+"51",1,3330,"Lee Hwy",1,5108,96
+"51",1,3331,"Ballston Metro",0,5108,95
+"51",1,3332,"Ballston Metro",0,5108,95
+"51",1,3333,"Ballston Metro",0,5108,95
+"51",1,3334,"Ballston Metro",0,5108,95
+"51",1,3335,"Ballston Metro",0,5108,95
+"51",1,3336,"Ballston Metro",0,5108,95
+"51",1,3337,"Ballston Metro",0,5108,95
+"51",1,3338,"Ballston Metro",0,5108,95
+"51",1,3339,"Ballston Metro",0,5108,95
+"51",1,3340,"Ballston Metro",0,5108,95
+"51",1,3341,"Ballston Metro",0,5108,95
+"51",1,3342,"Ballston Metro",0,5108,95
+"51",1,3343,"Ballston Metro",0,5108,95
+"51",1,3344,"Ballston Metro",0,5108,95
+"51",1,3345,"Ballston Metro",0,5108,95
+"51",1,3346,"Ballston Metro",0,5108,95
+"51",1,3347,"Ballston Metro",0,5108,95
+"51",1,3348,"Lee Hwy",1,5118,96
+"51",1,3349,"Lee Hwy",1,5118,96
+"51",1,3350,"Lee Hwy",1,5118,96
+"51",1,3351,"Lee Hwy",1,5118,96
+"51",1,3352,"Lee Hwy",1,5118,96
+"51",1,3353,"Lee Hwy",1,5118,96
+"51",1,3354,"Lee Hwy",1,5118,96
+"51",1,3355,"Lee Hwy",1,5118,96
+"51",1,3356,"Lee Hwy",1,5118,96
+"51",1,3357,"Lee Hwy",1,5118,96
+"51",1,3358,"Lee Hwy",1,5118,96
+"51",1,3359,"Lee Hwy",1,5118,96
+"51",1,3360,"Lee Hwy",1,5118,96
+"51",1,3361,"Lee Hwy",1,5118,96
+"51",1,3362,"Lee Hwy",1,5118,96
+"51",1,3363,"Lee Hwy",1,5118,96
+"51",1,3364,"Lee Hwy",1,5118,96
+"51",1,3365,"Lee Hwy",1,5118,96
+"51",1,3366,"Lee Hwy",1,5118,96
+"51",1,3367,"Ballston Metro",0,5118,95
+"51",1,3368,"Ballston Metro",0,5118,95
+"51",1,3369,"Ballston Metro",0,5118,95
+"51",1,3370,"Ballston Metro",0,5118,95
+"51",1,3371,"Ballston Metro",0,5118,95
+"51",1,3372,"Ballston Metro",0,5118,95
+"51",1,3373,"Ballston Metro",0,5118,95
+"51",1,3374,"Ballston Metro",0,5118,95
+"51",1,3375,"Ballston Metro",0,5118,95
+"51",1,3376,"Ballston Metro",0,5118,95
+"55",1,3377,"Rosslyn Metro",0,5531,107
+"55",1,3378,"Rosslyn Metro",0,5531,107
+"55",1,3379,"Rosslyn Metro",0,5531,107
+"55",1,3380,"East Falls Church Metro",1,5532,124
+"55",1,3381,"East Falls Church Metro",1,5532,124
+"55",1,3382,"East Falls Church Metro",1,5532,124
+"55",1,3383,"East Falls Church Metro",1,5532,124
+"55",1,3384,"East Falls Church Metro",1,5532,124
+"55",1,3385,"East Falls Church Metro",1,5532,124
+"55",1,3386,"East Falls Church Metro",1,5532,124
+"55",1,3387,"Rosslyn Metro",0,5532,107
+"55",1,3388,"Rosslyn Metro",0,5532,107
+"55",1,3389,"Rosslyn Metro",0,5532,107
+"55",1,3390,"Rosslyn Metro",0,5532,107
+"55",1,3391,"Rosslyn Metro",0,5532,107
+"55",1,3392,"Rosslyn Metro",0,5532,107
+"55",1,3393,"Rosslyn Metro",0,5532,107
+"55",1,3394,"East Falls Church Metro",1,5533,124
+"55",1,3395,"East Falls Church Metro",1,5533,124
+"55",1,3396,"East Falls Church Metro",1,5533,124
+"55",1,3397,"East Falls Church Metro",1,5533,124
+"55",1,3398,"East Falls Church Metro",1,5533,124
+"55",1,3399,"East Falls Church Metro",1,5533,124
+"55",1,3400,"Rosslyn Metro",0,5533,107
+"55",1,3401,"Rosslyn Metro",0,5533,107
+"55",1,3402,"Rosslyn Metro",0,5533,107
+"55",1,3403,"Rosslyn Metro",0,5533,107
+"55",1,3404,"Rosslyn Metro",0,5533,107
+"55",1,3405,"Rosslyn Metro",0,5533,107
+"55",1,3406,"East Falls Church Metro",1,5534,124
+"55",1,3407,"East Falls Church Metro",1,5534,124
+"55",1,3408,"East Falls Church Metro",1,5534,124
+"55",1,3409,"East Falls Church Metro",1,5534,124
+"55",1,3410,"East Falls Church Metro",1,5534,124
+"55",1,3411,"East Falls Church Metro",1,5534,124
+"55",1,3412,"Rosslyn Metro",0,5534,107
+"55",1,3413,"Rosslyn Metro",0,5534,107
+"55",1,3414,"Rosslyn Metro",0,5534,107
+"55",1,3415,"Rosslyn Metro",0,5534,107
+"55",1,3416,"Rosslyn Metro",0,5534,107
+"55",1,3417,"Rosslyn Metro",0,5534,107
+"77",1,3418,"Shirlington Station",0,7720,74
+"77",1,3419,"Shirlington Station",0,7720,74
+"77",1,3420,"Shirlington Station",0,7720,74
+"77",1,3421,"Shirlington Station",0,7720,74
+"77",1,3422,"Shirlington Station",0,7720,74
+"77",1,3423,"Shirlington Station",0,7720,74
+"77",1,3424,"Shirlington Station",0,7720,74
+"77",1,3425,"Shirlington Station",0,7720,74
+"77",1,3426,"Court House Metro",1,7720,137
+"77",1,3427,"Court House Metro",1,7720,137
+"77",1,3428,"Court House Metro",1,7720,137
+"77",1,3429,"Court House Metro",1,7720,137
+"77",1,3430,"Court House Metro",1,7720,137
+"77",1,3431,"Court House Metro",1,7720,137
+"77",1,3432,"Court House Metro",1,7720,137
+"77",1,3433,"Court House Metro",1,7720,137
+"77",1,3434,"Shirlington Station",0,7721,74
+"77",1,3435,"Shirlington Station",0,7721,74
+"77",1,3436,"Shirlington Station",0,7721,74
+"77",1,3437,"Shirlington Station",0,7721,74
+"77",1,3438,"Shirlington Station",0,7721,74
+"77",1,3439,"Shirlington Station",0,7721,74
+"77",1,3440,"Shirlington Station",0,7721,74
+"77",1,3441,"Shirlington Station",0,7721,74
+"41",1,3442,"Columbia Pike & Dinwiddie",0,4120,132
+"41",1,3443,"Columbia Pike & Dinwiddie",0,4120,132
+"41",1,3444,"Columbia Pike & Dinwiddie",0,4120,132
+"41",1,3445,"Columbia Pike & Dinwiddie",0,4120,132
+"41",1,3446,"Columbia Pike & Dinwiddie",0,4120,132
+"41",1,3447,"Columbia Pike & Dinwiddie",0,4120,132
+"41",1,3448,"Court House Metro",1,4120,131
+"41",1,3449,"Court House Metro",1,4120,130
+"41",1,3450,"Court House Metro",1,4120,130
+"41",1,3451,"Court House Metro",1,4120,130
+"41",1,3452,"Court House Metro",1,4120,130
+"41",1,3453,"Court House Metro",1,4120,130
+"41",1,3454,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3455,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3456,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3457,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3458,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3459,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3460,"Columbia Pike & Dinwiddie",0,4121,132
+"41",1,3461,"Court House Metro",1,4121,131
+"41",1,3462,"Court House Metro",1,4121,130
+"41",1,3463,"Court House Metro",1,4121,130
+"41",1,3464,"Court House Metro",1,4121,130
+"41",1,3465,"Court House Metro",1,4121,130
+"41",1,3466,"Court House Metro",1,4121,130
+"41",1,3467,"Court House Metro",1,4121,130
+"41",1,3468,"Court House Metro",1,4121,130
+"41",1,3469,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3470,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3471,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3472,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3473,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3474,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3475,"Columbia Pike & Dinwiddie",0,4122,132
+"41",1,3476,"Court House Metro",1,4122,131
+"41",1,3477,"Court House Metro",1,4122,130
+"41",1,3478,"Court House Metro",1,4122,130
+"41",1,3479,"Court House Metro",1,4122,130
+"41",1,3480,"Court House Metro",1,4122,130
+"41",1,3481,"Court House Metro",1,4122,130
+"41",1,3482,"Court House Metro",1,4122,130
+"41",1,3483,"Columbia Pike & Dinwiddie",0,4123,132
+"41",1,3484,"Columbia Pike & Dinwiddie",0,4123,132
+"41",1,3485,"Columbia Pike & Dinwiddie",0,4123,132
+"41",1,3486,"Columbia Pike & Dinwiddie",0,4123,132
+"41",1,3487,"Columbia Pike & Dinwiddie",0,4123,132
+"41",1,3488,"Court House Metro",1,4123,131
+"41",1,3489,"Court House Metro",1,4123,130
+"41",1,3490,"Court House Metro",1,4123,130
+"41",1,3491,"Court House Metro",1,4123,130
+"41",1,3492,"Court House Metro",1,4123,130
+"41",1,3493,"Columbia Pike & Dinwiddie",0,4124,132
+"41",1,3494,"Columbia Pike & Dinwiddie",0,4124,132
+"41",1,3495,"Columbia Pike & Dinwiddie",0,4124,132
+"41",1,3496,"Columbia Pike & Dinwiddie",0,4124,132
+"41",1,3497,"Columbia Pike & Dinwiddie",0,4124,132
+"41",1,3498,"Court House Metro",1,4124,131
+"41",1,3499,"Court House Metro",1,4124,130
+"41",1,3500,"Court House Metro",1,4124,130
+"41",1,3501,"Court House Metro",1,4124,130
+"41",1,3502,"Court House Metro",1,4124,130
+"41",1,3503,"Columbia Pike & Dinwiddie",0,4130,132
+"41",1,3504,"Columbia Pike & Dinwiddie",0,4130,132
+"41",1,3505,"Columbia Pike & Dinwiddie",0,4130,132
+"87",1,3506,"Shirlington Station",0,8721,98
+"87",1,3507,"Shirlington Station",0,8721,98
+"87",1,3508,"Pentagon Metro",1,8721,97
+"87",1,3509,"Pentagon Metro",1,8721,97
+"87",1,3510,"Pentagon Metro",1,8721,97
+"87",1,3511,"Pentagon Metro",1,8721,97
+"87",1,3512,"Pentagon Metro",1,8721,97
+"87",1,3513,"Pentagon Metro",1,8721,97
+"87",1,3514,"Pentagon Metro",1,8721,97
+"87",1,3515,"Pentagon Metro",1,8721,97
+"87",1,3516,"Shirlington Station",0,8730,98
+"87",1,3517,"Shirlington Station",0,8730,98
+"87",1,3518,"Shirlington Station",0,8730,98
+"87",1,3519,"Shirlington Station",0,8730,98
+"87",1,3520,"Shirlington Station",0,8730,98
+"87",1,3521,"Shirlington Station",0,8730,98
+"87",1,3522,"Shirlington Station",0,8730,98
+"87",1,3523,"Shirlington Station",0,8730,98
+"87",1,3524,"Shirlington Station",0,8730,98
+"87",1,3525,"Pentagon Metro",1,8730,97
+"87",1,3526,"Pentagon Metro",1,8730,97
+"87",1,3527,"Pentagon Metro",1,8730,97
+"87",1,3528,"Pentagon Metro",1,8730,97
+"87",1,3529,"Pentagon Metro",1,8730,97
+"87",1,3530,"Pentagon Metro",1,8730,97
+"87",1,3531,"Pentagon Metro",1,8730,97
+"87",1,3532,"Pentagon Metro",1,8730,97
+"87",1,3533,"Pentagon Metro",1,8730,97
+"87",1,3534,"Shirlington Station",0,8731,98
+"87",1,3535,"Shirlington Station",0,8731,98
+"87",1,3536,"Shirlington Station",0,8731,98
+"87",1,3537,"Shirlington Station",0,8731,98
+"87",1,3538,"Shirlington Station",0,8731,98
+"87",1,3539,"Shirlington Station",0,8731,98
+"87",1,3540,"Shirlington Station",0,8731,98
+"87",1,3541,"Shirlington Station",0,8731,98
+"87",1,3542,"Pentagon Metro",1,8731,97
+"87",1,3543,"Pentagon Metro",1,8731,97
+"87",1,3544,"Pentagon Metro",1,8731,97
+"87",1,3545,"Pentagon Metro",1,8731,97
+"87",1,3546,"Pentagon Metro",1,8731,97
+"87",1,3547,"Pentagon Metro",1,8731,97
+"87",1,3548,"Pentagon Metro",1,8731,97
+"87",1,3549,"Pentagon Metro",1,8731,97
+"41",2,3550,"Columbia Pike & Dinwiddie",0,4120,132
+"41",2,3551,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,3552,"Columbia Pike & Dinwiddie",0,4122,132
+"41",2,3553,"Columbia Pike & Dinwiddie",0,4123,132
+"41",2,3554,"Columbia Pike & Dinwiddie",0,4120,132
+"41",2,3555,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,3556,"Columbia Pike & Dinwiddie",0,4122,132
+"41",2,3557,"Columbia Pike & Dinwiddie",0,4123,132
+"41",2,3558,"Columbia Pike & Dinwiddie",0,4120,132
+"41",2,3559,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,3560,"Columbia Pike & Dinwiddie",0,4122,132
+"41",2,3561,"Columbia Pike & Dinwiddie",0,4123,132
+"41",2,3562,"Columbia Pike & Dinwiddie",0,4120,132
+"41",2,3563,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,3564,"Columbia Pike & Dinwiddie",0,4122,132
+"41",2,3565,"Columbia Pike & Dinwiddie",0,4124,132
+"41",2,3566,"Columbia Pike & Dinwiddie",0,4123,132
+"41",2,3567,"Columbia Pike & Dinwiddie",0,4120,132
+"41",2,3568,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,3569,"Columbia Pike & Dinwiddie",0,4122,132
+"41",2,3570,"Columbia Pike & Dinwiddie",0,4124,132
+"41",2,3571,"Columbia Pike & Dinwiddie",0,4123,132
+"41",2,3572,"Columbia Pike & Dinwiddie",0,4120,132
+"41",2,3573,"Columbia Pike & Dinwiddie",0,4121,132
+"41",2,3574,"Court House Metro",1,4131,130
+"41",2,3575,"Court House Metro",1,4121,130
+"41",2,3576,"Court House Metro",1,4122,130
+"41",2,3577,"Court House Metro",1,4124,130
+"41",2,3578,"Court House Metro",1,4130,130
+"41",2,3579,"Court House Metro",1,4131,130
+"41",2,3580,"Court House Metro",1,4121,130
+"41",2,3581,"Court House Metro",1,4132,130
+"41",2,3651,"Court House Metro",1,4124,130
+"41",2,3652,"Court House Metro",1,4130,130
+"41",2,3653,"Court House Metro",1,4131,130
+"41",2,3654,"Court House Metro",1,4133,130
+"41",2,3655,"Court House Metro",1,4132,130
+"41",2,3656,"Court House Metro",1,4134,130
+"41",2,3657,"Court House Metro",1,4130,130
+"41",2,3658,"Court House Metro",1,4131,130
+"41",2,3659,"Court House Metro",1,4133,130
+"41",2,3662,"Court House Metro",1,4132,130
+"41",2,3663,"Court House Metro",1,4134,130
+"41",2,3664,"Court House Metro",1,4130,130
+"41",2,3665,"Court House Metro",1,4131,130
+"41",2,3666,"Court House Metro",1,4133,130
+"41",2,3667,"Court House Metro",1,4132,130
+"41",2,3668,"Court House Metro",1,4130,130
+"41",2,3669,"Court House Metro",1,4134,130
+"41",2,3670,"Court House Metro",1,4133,130
+"41",2,3671,"Court House Metro",1,4132,130
+"41",2,3672,"Court House Metro",1,4134,130
+"41",2,3673,"Court House Metro",1,4133,130
+"41",2,3674,"Court House Metro",1,4132,130
+"41",2,3675,"Court House Metro",1,4134,130
+"41",2,3676,"Court House Metro",1,4133,130
+"41",2,3677,"Court House Metro",1,4132,130
+"41",2,3678,"Court House Metro",1,4134,130
+"41",2,3679,"Court House Metro",1,4133,130
+"41",3,3680,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3681,"Columbia Pike & Dinwiddie",0,4142,14
+"41",3,3682,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3683,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3684,"Columbia Pike & Dinwiddie",0,4142,14
+"41",3,3685,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3686,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3687,"Columbia Pike & Dinwiddie",0,4144,14
+"41",3,3688,"Columbia Pike & Dinwiddie",0,4142,14
+"41",3,3689,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3690,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3691,"Columbia Pike & Dinwiddie",0,4144,14
+"41",3,3692,"Columbia Pike & Dinwiddie",0,4142,14
+"41",3,3693,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3694,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3695,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,3696,"Columbia Pike & Dinwiddie",0,4144,14
+"41",3,3697,"Columbia Pike & Dinwiddie",0,4142,14
+"41",3,3698,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3699,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3700,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,3701,"Columbia Pike & Dinwiddie",0,4144,14
+"41",3,3702,"Columbia Pike & Dinwiddie",0,4142,14
+"41",3,3703,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3704,"Columbia Pike & Dinwiddie",0,4141,14
+"41",3,3705,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,3706,"Columbia Pike & Dinwiddie",0,4144,14
+"41",3,3707,"Columbia Pike & Dinwiddie",0,4151,14
+"41",3,3708,"Columbia Pike & Dinwiddie",0,4143,14
+"41",3,3709,"Columbia Pike & Dinwiddie",0,4152,14
+"41",3,3710,"Columbia Pike & Dinwiddie",0,4145,14
+"41",3,3711,"Court House Metro",1,4154,15
+"41",3,3712,"Court House Metro",1,4151,15
+"41",3,3713,"Court House Metro",1,4153,15
+"41",3,3714,"Court House Metro",1,4152,15
+"41",3,3715,"Court House Metro",1,4145,15
+"41",3,3716,"Court House Metro",1,4154,15
+"41",3,3717,"Court House Metro",1,4151,15
+"41",3,3718,"Court House Metro",1,4153,15
+"41",3,3719,"Court House Metro",1,4152,15
+"41",3,3720,"Court House Metro",1,4145,15
+"41",3,3721,"Court House Metro",1,4154,15
+"41",3,3722,"Court House Metro",1,4151,15
+"41",3,3723,"Court House Metro",1,4153,15
+"41",3,3724,"Court House Metro",1,4152,15
+"41",3,3725,"Court House Metro",1,4154,15
+"41",3,3726,"Court House Metro",1,4151,15
+"41",3,3727,"Court House Metro",1,4153,15
+"41",3,3728,"Court House Metro",1,4152,15
+"41",3,3729,"Court House Metro",1,4154,15
+"41",3,3730,"Court House Metro",1,4151,15
+"41",3,3731,"Court House Metro",1,4153,15
+"41",3,3732,"Court House Metro",1,4152,15
+"41",3,3733,"Court House Metro",1,4154,15
+"41",3,3734,"Court House Metro",1,4151,15
+"41",3,3735,"Court House Metro",1,4152,15
+"41",3,3736,"Court House Metro",1,4154,15
+"41",3,3737,"Court House Metro",1,4151,15
+"41",3,3738,"Court House Metro",1,4152,15
+"42",2,3739,"Pentagon City Metro",0,4220,134
+"42",2,3740,"Pentagon City Metro",0,4221,134
+"42",2,3741,"Pentagon City Metro",0,4220,134
+"42",2,3742,"Pentagon City Metro",0,4221,134
+"42",2,3743,"Pentagon City Metro",0,4220,134
+"42",2,3744,"Pentagon City Metro",0,4221,134
+"42",2,3745,"Pentagon City Metro",0,4220,134
+"42",2,3746,"Pentagon City Metro",0,4221,134
+"42",2,3747,"Pentagon City Metro",0,4220,134
+"42",2,3748,"Pentagon City Metro",0,4221,134
+"42",2,3749,"Pentagon City Metro",0,4220,134
+"42",2,3750,"Pentagon City Metro",0,4221,134
+"42",2,3751,"Pentagon City Metro",0,4230,134
+"42",2,3752,"Pentagon City Metro",0,4231,134
+"42",2,3753,"Pentagon City Metro",0,4230,134
+"42",2,3754,"Pentagon City Metro",0,4231,134
+"42",2,3755,"Pentagon City Metro",0,4230,134
+"42",2,3756,"Pentagon City Metro",0,4231,134
+"42",2,3757,"Pentagon City Metro",0,4230,134
+"42",2,3758,"Pentagon City Metro",0,4231,134
+"42",2,3759,"Pentagon City Metro",0,4230,134
+"42",2,3760,"Pentagon City Metro",0,4231,134
+"42",2,3761,"Pentagon City Metro",0,4230,134
+"42",2,3762,"Pentagon City Metro",0,4231,134
+"42",2,3763,"Pentagon City Metro",0,4230,134
+"42",2,3764,"Pentagon City Metro",0,4231,134
+"42",2,3765,"Pentagon City Metro",0,4230,134
+"42",2,3766,"Ballston Metro",1,4220,123
+"42",2,3767,"Ballston Metro",1,4221,123
+"42",2,3768,"Ballston Metro",1,4220,123
+"42",2,3769,"Ballston Metro",1,4221,123
+"42",2,3770,"Ballston Metro",1,4220,123
+"42",2,3771,"Ballston Metro",1,4221,123
+"42",2,3772,"Ballston Metro",1,4220,123
+"42",3,3773,"Ballston Metro",1,4251,123
+"42",3,3774,"Ballston Metro",1,4250,123
+"42",3,3775,"Ballston Metro",1,4251,123
+"42",3,3776,"Ballston Metro",1,4250,123
+"42",3,3777,"Ballston Metro",1,4251,123
+"42",3,3778,"Ballston Metro",1,4250,123
+"42",3,3779,"Ballston Metro",1,4251,123
+"45",2,3780,"Columbia Pike & Dinwiddie",0,4521,127
+"45",2,3781,"Columbia Pike & Dinwiddie",0,4522,127
+"45",2,3782,"Columbia Pike & Dinwiddie",0,4523,127
+"45",2,3783,"Columbia Pike & Dinwiddie",0,4521,127
+"45",2,3784,"Columbia Pike & Dinwiddie",0,4522,127
+"45",2,3785,"Columbia Pike & Dinwiddie",0,4523,127
+"45",2,3786,"Columbia Pike & Dinwiddie",0,4521,127
+"45",2,3787,"Columbia Pike & Dinwiddie",0,4522,127
+"45",2,3788,"Columbia Pike & Dinwiddie",0,4523,127
+"45",2,3789,"Columbia Pike & Dinwiddie",0,4521,127
+"45",2,3790,"Columbia Pike & Dinwiddie",0,4522,127
+"45",2,3791,"Columbia Pike & Dinwiddie",0,4523,127
+"45",2,3792,"Columbia Pike & Dinwiddie",0,4521,127
+"45",2,3793,"Columbia Pike & Dinwiddie",0,4522,127
+"45",2,3794,"Columbia Pike & Dinwiddie",0,4523,127
+"45",2,3795,"Columbia Pike & Dinwiddie",0,4530,127
+"45",2,3796,"Columbia Pike & Dinwiddie",0,4531,127
+"45",2,3797,"Columbia Pike & Dinwiddie",0,4532,127
+"45",2,3798,"Columbia Pike & Dinwiddie",0,4530,127
+"45",2,3799,"Columbia Pike & Dinwiddie",0,4531,127
+"45",2,3800,"Columbia Pike & Dinwiddie",0,4532,127
+"45",2,3801,"Columbia Pike & Dinwiddie",0,4530,127
+"45",2,3802,"Columbia Pike & Dinwiddie",0,4531,127
+"45",2,3803,"Columbia Pike & Dinwiddie",0,4532,127
+"45",2,3804,"Columbia Pike & Dinwiddie",0,4530,127
+"45",2,3805,"Columbia Pike & Dinwiddie",0,4531,127
+"45",2,3806,"Columbia Pike & Dinwiddie",0,4532,127
+"45",2,3807,"Columbia Pike & Dinwiddie",0,4530,127
+"45",2,3808,"Columbia Pike & Dinwiddie",0,4531,127
+"45",2,3809,"Columbia Pike & Dinwiddie",0,4532,127
+"45",2,3810,"Columbia Pike & Dinwiddie",0,4530,127
+"45",2,3811,"Columbia Pike & Dinwiddie",0,4531,127
+"45",2,3812,"Rosslyn Metro",1,4521,128
+"45",2,3813,"Rosslyn Metro",1,4522,128
+"45",2,3814,"Rosslyn Metro",1,4523,128
+"45",2,3815,"Rosslyn Metro",1,4521,129
+"45",2,3816,"Rosslyn Metro",1,4522,129
+"45",2,3817,"Rosslyn Metro",1,4523,129
+"45",2,3818,"Rosslyn Metro",1,4521,129
+"45",2,3819,"Rosslyn Metro",1,4522,129
+"45",2,3820,"Rosslyn Metro",1,4523,129
+"45",2,3821,"Rosslyn Metro",1,4521,129
+"45",2,3822,"Rosslyn Metro",1,4522,129
+"45",2,3823,"Rosslyn Metro",1,4523,129
+"45",2,3824,"Rosslyn Metro",1,4521,129
+"45",2,3825,"Rosslyn Metro",1,4522,129
+"45",2,3826,"Rosslyn Metro",1,4523,129
+"45",2,3827,"Rosslyn Metro",1,4530,129
+"45",2,3828,"Rosslyn Metro",1,4531,129
+"45",2,3829,"Rosslyn Metro",1,4532,129
+"45",2,3830,"Rosslyn Metro",1,4530,129
+"45",2,3831,"Rosslyn Metro",1,4531,129
+"45",2,3832,"Rosslyn Metro",1,4532,129
+"45",2,3833,"Rosslyn Metro",1,4530,129
+"45",2,3834,"Rosslyn Metro",1,4531,129
+"45",2,3835,"Rosslyn Metro",1,4532,129
+"45",2,3836,"Rosslyn Metro",1,4530,129
+"45",2,3837,"Rosslyn Metro",1,4531,129
+"45",2,3838,"Rosslyn Metro",1,4532,129
+"45",2,3839,"Rosslyn Metro",1,4530,129
+"51",2,3840,"Lee Hwy",1,5108,96
+"51",2,3841,"Lee Hwy",1,5108,96
+"51",2,3842,"Lee Hwy",1,5108,96
+"51",2,3843,"Lee Hwy",1,5108,96
+"51",2,3844,"Lee Hwy",1,5108,96
+"51",2,3845,"Lee Hwy",1,5108,96
+"51",2,3846,"Lee Hwy",1,5108,96
+"51",2,3847,"Lee Hwy",1,5108,96
+"51",2,3848,"Lee Hwy",1,5108,96
+"51",2,3849,"Lee Hwy",1,5108,96
+"51",2,3850,"Lee Hwy",1,5108,96
+"51",2,3851,"Lee Hwy",1,5108,96
+"51",2,3852,"Lee Hwy",1,5108,96
+"51",2,3853,"Lee Hwy",1,5118,96
+"51",2,3854,"Lee Hwy",1,5118,96
+"51",2,3855,"Lee Hwy",1,5118,96
+"51",2,3856,"Lee Hwy",1,5118,96
+"51",2,3857,"Lee Hwy",1,5118,96
+"51",2,3858,"Lee Hwy",1,5118,96
+"51",2,3859,"Lee Hwy",1,5118,96
+"51",2,3860,"Lee Hwy",1,5118,96
+"51",2,3861,"Lee Hwy",1,5118,96
+"51",2,3862,"Lee Hwy",1,5118,96
+"51",2,3863,"Lee Hwy",1,5118,96
+"51",2,3864,"Lee Hwy",1,5118,96
+"51",2,3865,"Lee Hwy",1,5118,96
+"51",2,3866,"Lee Hwy",1,5118,96
+"51",2,3867,"Lee Hwy",1,5118,96
+"51",2,3868,"Lee Hwy",1,5118,96
+"51",2,3869,"Lee Hwy",1,5118,96
+"51",2,3870,"Lee Hwy",1,5118,96
+"51",2,3871,"Lee Hwy",1,5118,96
+"51",2,3872,"Ballston Metro",0,5108,95
+"51",2,3873,"Ballston Metro",0,5108,95
+"51",2,3874,"Ballston Metro",0,5108,95
+"51",2,3875,"Ballston Metro",0,5108,95
+"51",2,3876,"Ballston Metro",0,5108,95
+"51",2,3877,"Ballston Metro",0,5108,95
+"51",2,3878,"Ballston Metro",0,5108,95
+"51",2,3879,"Ballston Metro",0,5108,95
+"51",2,3880,"Ballston Metro",0,5108,95
+"51",2,3881,"Ballston Metro",0,5108,95
+"51",2,3882,"Ballston Metro",0,5108,95
+"51",2,3883,"Ballston Metro",0,5108,95
+"51",2,3884,"Ballston Metro",0,5108,95
+"51",2,3885,"Ballston Metro",0,5108,95
+"51",2,3886,"Ballston Metro",0,5108,95
+"51",2,3887,"Ballston Metro",0,5108,95
+"51",2,3888,"Ballston Metro",0,5108,95
+"51",2,3889,"Ballston Metro",0,5118,95
+"51",2,3890,"Ballston Metro",0,5118,95
+"51",2,3891,"Ballston Metro",0,5118,95
+"51",2,3892,"Ballston Metro",0,5118,95
+"51",2,3893,"Ballston Metro",0,5118,95
+"51",2,3894,"Ballston Metro",0,5118,95
+"51",2,3895,"Ballston Metro",0,5118,95
+"51",2,3896,"Ballston Metro",0,5118,95
+"51",2,3897,"Ballston Metro",0,5118,95
+"51",2,3898,"Ballston Metro",0,5118,95
+"51",2,3899,"Ballston Metro",0,5118,95
+"51",2,3900,"Ballston Metro",0,5118,95
+"51",2,3901,"Ballston Metro",0,5118,95
+"51",2,3902,"Ballston Metro",0,5118,95
+"51",2,3903,"Ballston Metro",0,5118,95
+"51",2,3904,"Ballston Metro",0,5118,95
+"51",2,3905,"Ballston Metro",0,5118,95
+"51",2,3906,"Ballston Metro",0,5118,95
+"51",2,3907,"Ballston Metro",0,5118,95
+"51",3,3908,"Lee Hwy",1,5109,96
+"55",2,3909,"East Falls Church Metro",1,5521,124
+"55",2,3910,"East Falls Church Metro",1,5522,124
+"55",2,3911,"East Falls Church Metro",1,5523,124
+"55",2,3912,"East Falls Church Metro",1,5521,124
+"55",2,3913,"East Falls Church Metro",1,5522,124
+"55",2,3914,"East Falls Church Metro",1,5523,124
+"55",2,3915,"East Falls Church Metro",1,5521,124
+"55",2,3916,"East Falls Church Metro",1,5531,124
+"55",2,3917,"East Falls Church Metro",1,5532,124
+"55",2,3918,"East Falls Church Metro",1,5530,124
+"55",2,3919,"East Falls Church Metro",1,5531,124
+"55",2,3920,"East Falls Church Metro",1,5532,124
+"55",2,3921,"East Falls Church Metro",1,5530,124
+"55",2,3922,"East Falls Church Metro",1,5531,124
+"55",2,3923,"East Falls Church Metro",1,5532,124
+"55",2,3924,"East Falls Church Metro",1,5530,124
+"55",2,3925,"East Falls Church Metro",1,5531,124
+"55",2,3926,"East Falls Church Metro",1,5532,124
+"55",2,3927,"East Falls Church Metro",1,5530,124
+"55",2,3928,"East Falls Church Metro",1,5531,124
+"55",2,3929,"East Falls Church Metro",1,5532,124
+"55",2,3930,"East Falls Church Metro",1,5530,124
+"55",2,3931,"East Falls Church Metro",1,5531,124
+"55",2,3932,"East Falls Church Metro",1,5532,124
+"55",2,3933,"East Falls Church Metro",1,5530,124
+"55",2,3934,"East Falls Church Metro",1,5531,124
+"55",2,3935,"East Falls Church Metro",1,5532,124
+"55",2,3936,"East Falls Church Metro",1,5530,124
+"55",2,3937,"East Falls Church Metro",1,5533,124
+"55",2,3938,"East Falls Church Metro",1,5534,124
+"55",2,3939,"East Falls Church Metro",1,5530,124
+"55",2,3940,"East Falls Church Metro",1,5533,124
+"55",2,3941,"East Falls Church Metro",1,5534,124
+"55",2,3942,"East Falls Church Metro",1,5533,124
+"55",2,3943,"East Falls Church Metro",1,5534,124
+"55",2,3944,"East Falls Church Metro",1,5533,124
+"55",2,3945,"East Falls Church Metro",1,5534,124
+"55",2,3946,"East Falls Church Metro",1,5533,124
+"55",2,3947,"East Falls Church Metro",1,5534,124
+"55",2,3948,"East Falls Church Metro",1,5533,124
+"55",2,3949,"East Falls Church Metro",1,5534,124
+"55",2,3950,"Rosslyn Metro",0,5522,107
+"55",2,3951,"Rosslyn Metro",0,5523,107
+"55",2,3952,"Rosslyn Metro",0,5521,107
+"55",2,3953,"Rosslyn Metro",0,5522,107
+"55",2,3954,"Rosslyn Metro",0,5523,107
+"55",2,3955,"Rosslyn Metro",0,5521,107
+"55",2,3956,"Rosslyn Metro",0,5522,107
+"55",2,3957,"Rosslyn Metro",0,5523,107
+"55",2,3958,"Rosslyn Metro",0,5521,107
+"55",2,3959,"Rosslyn Metro",0,5522,107
+"55",2,3960,"Rosslyn Metro",0,5523,107
+"55",2,3961,"Rosslyn Metro",0,5521,107
+"55",2,3962,"Rosslyn Metro",0,5522,107
+"55",2,3963,"Rosslyn Metro",0,5523,107
+"55",2,3964,"Rosslyn Metro",0,5521,107
+"55",2,3965,"Rosslyn Metro",0,5522,107
+"55",2,3966,"Rosslyn Metro",0,5523,107
+"55",2,3967,"Rosslyn Metro",0,5521,107
+"55",2,3968,"Rosslyn Metro",0,5531,107
+"55",2,3969,"Rosslyn Metro",0,5532,107
+"55",2,3970,"Rosslyn Metro",0,5530,107
+"55",2,3971,"Rosslyn Metro",0,5531,107
+"55",2,3972,"Rosslyn Metro",0,5532,107
+"55",2,3973,"Rosslyn Metro",0,5530,107
+"55",2,3974,"Rosslyn Metro",0,5531,107
+"55",2,3975,"Rosslyn Metro",0,5532,107
+"55",2,3976,"Rosslyn Metro",0,5530,107
+"55",2,3977,"Rosslyn Metro",0,5531,107
+"55",3,3978,"Rosslyn Metro",0,5542,107
+"55",3,3979,"Rosslyn Metro",0,5541,107
+"55",3,3980,"Rosslyn Metro",0,5542,107
+"55",3,3981,"Rosslyn Metro",0,5541,107
+"55",3,3982,"Rosslyn Metro",0,5542,107
+"55",3,3983,"Rosslyn Metro",0,5551,107
+"55",3,3984,"Rosslyn Metro",0,5550,107
+"55",3,3985,"Rosslyn Metro",0,5551,107
+"55",3,3986,"Rosslyn Metro",0,5550,107
+"55",3,3987,"Rosslyn Metro",0,5551,107
+"55",3,3988,"Rosslyn Metro",0,5550,107
+"55",3,3989,"Rosslyn Metro",0,5551,107
+"55",3,3990,"Rosslyn Metro",0,5550,107
+"55",3,3991,"Rosslyn Metro",0,5551,107
+"55",3,3992,"Rosslyn Metro",0,5550,107
+"55",3,3993,"Rosslyn Metro",0,5551,107
+"55",3,3994,"Rosslyn Metro",0,5550,107
+"55",3,3995,"Rosslyn Metro",0,5551,107
+"55",3,3996,"Rosslyn Metro",0,5550,107
+"55",3,3997,"Rosslyn Metro",0,5551,107
+"55",3,3998,"Rosslyn Metro",0,5550,107
+"55",3,3999,"Rosslyn Metro",0,5551,107
+"77",2,4000,"Shirlington Station",0,7720,74
+"77",2,4001,"Shirlington Station",0,7721,74
+"77",2,4002,"Shirlington Station",0,7720,74
+"77",2,4003,"Shirlington Station",0,7721,74
+"77",2,4004,"Shirlington Station",0,7720,74
+"77",2,4005,"Shirlington Station",0,7721,74
+"77",2,4006,"Shirlington Station",0,7720,74
+"77",2,4007,"Shirlington Station",0,7721,74
+"77",2,4008,"Shirlington Station",0,7720,74
+"77",2,4009,"Shirlington Station",0,7721,74
+"77",2,4010,"Shirlington Station",0,7720,74
+"77",2,4011,"Shirlington Station",0,7721,74
+"77",2,4012,"Shirlington Station",0,7720,74
+"77",2,4013,"Shirlington Station",0,7721,74
+"77",2,4014,"Shirlington Station",0,7720,74
+"77",2,4015,"Shirlington Station",0,7721,74
+"77",2,4016,"Shirlington Station",0,7731,74
+"77",2,4017,"Shirlington Station",0,7732,74
+"77",2,4018,"Shirlington Station",0,7731,74
+"77",2,4019,"Shirlington Station",0,7732,74
+"77",2,4020,"Shirlington Station",0,7731,74
+"77",2,4021,"Shirlington Station",0,7732,74
+"77",2,4022,"Shirlington Station",0,7731,74
+"77",2,4023,"Shirlington Station",0,7732,74
+"77",2,4024,"Shirlington Station",0,7731,74
+"77",2,4025,"Shirlington Station",0,7732,74
+"77",2,4026,"Shirlington Station",0,7731,74
+"77",2,4027,"Shirlington Station",0,7732,74
+"77",2,4028,"Shirlington Station",0,7731,74
+"77",2,4029,"Shirlington Station",0,7732,74
+"77",2,4030,"Shirlington Station",0,7731,74
+"77",2,4031,"Shirlington Station",0,7732,74
+"77",2,4032,"Shirlington Station",0,7731,74
+"77",2,4033,"Court House Metro",1,7720,137
+"77",2,4034,"Court House Metro",1,7721,137
+"77",2,4035,"Court House Metro",1,7720,137
+"77",2,4036,"Court House Metro",1,7721,137
+"77",2,4037,"Court House Metro",1,7720,137
+"77",2,4038,"Court House Metro",1,7721,137
+"77",2,4039,"Court House Metro",1,7720,137
+"87",2,4040,"Pentagon City Metro",1,8721,90
+"87",2,4041,"Pentagon City Metro",1,8720,90
+"87",2,4042,"Pentagon City Metro",1,8721,90
+"87",2,4043,"Pentagon City Metro",1,8720,90
+"87",2,4044,"Pentagon City Metro",1,8721,90
+"87",2,4045,"Pentagon City Metro",1,8720,90
+"87",2,4046,"Pentagon City Metro",1,8721,90
+"87",2,4047,"Pentagon City Metro",1,8720,90
+"87",2,4048,"Pentagon City Metro",1,8721,90
+"87",2,4049,"Pentagon City Metro",1,8720,90
+"87",2,4050,"Pentagon City Metro",1,8721,90
+"87",2,4051,"Pentagon City Metro",1,8730,90
+"87",2,4052,"Pentagon City Metro",1,8731,90
+"87",2,4053,"Pentagon City Metro",1,8730,90
+"87",2,4054,"Pentagon City Metro",1,8731,90
+"87",2,4055,"Pentagon City Metro",1,8730,90
+"87",2,4056,"Pentagon City Metro",1,8731,90
+"87",2,4057,"Pentagon City Metro",1,8730,90
+"87",2,4058,"Pentagon City Metro",1,8731,90
+"87",2,4059,"Pentagon City Metro",1,8730,90
+"87",2,4060,"Pentagon City Metro",1,8731,90
+"87",2,4061,"Pentagon City Metro",1,8730,90
+"87",2,4062,"Pentagon City Metro",1,8731,90
+"87",2,4063,"Pentagon City Metro",1,8730,90
+"87",2,4064,"Pentagon City Metro",1,8731,90
+"87",2,4065,"Pentagon City Metro",1,8730,90
+"87",2,4066,"Pentagon City Metro",1,8731,90
+"87",2,4067,"Pentagon City Metro",1,8730,90
+"87",3,4068,"Shirlington Station",0,8741,89
+"87",3,4069,"Shirlington Station",0,8742,89
+"87",3,4070,"Shirlington Station",0,8741,89
+"87",3,4071,"Shirlington Station",0,8742,89
+"87",3,4072,"Shirlington Station",0,8741,89
+"87",3,4073,"Shirlington Station",0,8742,89
+"87",3,4074,"Shirlington Station",0,8741,89
+"87",3,4075,"Shirlington Station",0,8742,89
+"87",3,4076,"Shirlington Station",0,8741,89
+"87",3,4077,"Shirlington Station",0,8742,89
+"87",3,4078,"Shirlington Station",0,8750,89
+"87",3,4079,"Shirlington Station",0,8751,89
+"87",3,4080,"Shirlington Station",0,8750,89
+"87",3,4081,"Shirlington Station",0,8751,89
+"87",3,4082,"Shirlington Station",0,8750,89
+"87",3,4083,"Shirlington Station",0,8751,89
+"87",3,4084,"Shirlington Station",0,8750,89
+"87",3,4085,"Shirlington Station",0,8751,89
+"87",3,4086,"Shirlington Station",0,8750,89
+"87",3,4087,"Shirlington Station",0,8751,89
+"87",3,4088,"Shirlington Station",0,8750,89
+"87",3,4089,"Shirlington Station",0,8751,89
+"87",3,4090,"Shirlington Station",0,8750,89
+"87",3,4091,"Shirlington Station",0,8751,89
+"87",3,4092,"Pentagon City Metro",1,8742,90
+"87",3,4093,"Pentagon City Metro",1,8741,90
+"87",3,4094,"Pentagon City Metro",1,8742,90
+"87",3,4095,"Pentagon City Metro",1,8741,90
+"87",3,4096,"Pentagon City Metro",1,8742,90
+"87",3,4097,"Pentagon City Metro",1,8741,90
+"87",3,4098,"Pentagon City Metro",1,8742,90
+"87",3,4099,"Pentagon City Metro",1,8741,90
+"87",3,4100,"Pentagon City Metro",1,8742,90
+"87",3,4101,"Pentagon City Metro",1,8741,90
+"87",3,4102,"Pentagon City Metro",1,8751,90
+"87",3,4103,"Pentagon City Metro",1,8750,90
+"87",3,4104,"Pentagon City Metro",1,8751,90
+"87",3,4105,"Pentagon City Metro",1,8750,90
+"42",1,4106,"Ballston Metro",1,4220,40
+"42",1,4107,"Ballston Metro",1,4220,40
+"42",1,4108,"Ballston Metro",1,4220,40
+"42",1,4109,"Ballston Metro",1,4220,40
+"42",1,4110,"Ballston Metro",1,4220,40
+"42",1,4111,"Pentagon Metro",0,4221,39
+"42",1,4112,"Pentagon Metro",0,4221,39
+"42",1,4113,"Pentagon Metro",0,4221,39
+"42",1,4114,"Pentagon Metro",0,4221,39
+"42",1,4115,"Pentagon Metro",0,4221,39
+"42",1,4116,"Pentagon Metro",0,4221,39
+"42",1,4117,"Ballston Metro",1,4221,40
+"42",1,4118,"Ballston Metro",1,4221,40
+"42",1,4119,"Ballston Metro",1,4221,40
+"42",1,4120,"Ballston Metro",1,4221,40
+"42",1,4121,"Ballston Metro",1,4221,40
+"42",1,4122,"Ballston Metro",1,4221,40
+"42",1,4123,"Pentagon Metro",0,4230,39
+"42",1,4124,"Pentagon Metro",0,4230,39
+"42",1,4125,"Pentagon Metro",0,4230,39
+"42",1,4126,"Pentagon Metro",0,4230,39
+"42",1,4127,"Pentagon Metro",0,4230,39
+"42",1,4128,"Pentagon Metro",0,4230,39
+"42",1,4129,"Pentagon Metro",0,4230,39
+"42",1,4130,"Pentagon Metro",0,4230,39
+"42",1,4131,"Ballston Metro",1,4230,40
+"42",1,4132,"Ballston Metro",1,4230,40
+"42",1,4133,"Ballston Metro",1,4230,40
+"42",1,4134,"Ballston Metro",1,4230,40
+"42",1,4135,"Ballston Metro",1,4230,40
+"42",1,4136,"Ballston Metro",1,4230,40
+"42",1,4137,"Ballston Metro",1,4230,40
+"42",1,4138,"Pentagon Metro",0,4231,39
+"42",1,4139,"Pentagon Metro",0,4231,39
+"42",1,4140,"Pentagon Metro",0,4231,39
+"42",1,4141,"Pentagon Metro",0,4231,39
+"42",1,4142,"Pentagon Metro",0,4231,39
+"42",1,4143,"Pentagon Metro",0,4231,39
+"42",1,4144,"Pentagon Metro",0,4231,39
+"42",1,4145,"Ballston Metro",1,4231,40
+"42",1,4146,"Ballston Metro",1,4231,40
+"42",1,4147,"Ballston Metro",1,4231,40
+"42",1,4148,"Ballston Metro",1,4231,40
+"42",1,4149,"Ballston Metro",1,4231,40
+"42",1,4150,"Ballston Metro",1,4231,40
+"42",1,4151,"Ballston Metro",1,4231,40
+"43",1,4152,"Crystal City Express",0,4321,12
+"43",1,4153,"Crystal City Express",0,4321,12
+"43",1,4154,"Crystal City Express",0,4321,12
+"43",1,4155,"Crystal City Express",0,4321,12
+"43",1,4156,"Crystal City Express",0,4321,12
+"43",1,4157,"Crystal City Express",0,4321,12
+"43",1,4158,"Crystal City Express",0,4321,12
+"43",1,4159,"Crystal City Express",0,4321,12
+"43",1,4160,"Crystal City Express",0,4321,12
+"43",1,4161,"Crystal City Express",0,4321,12
+"43",1,4162,"Crystal City Express",0,4321,12
+"43",1,4163,"Crystal City Express",0,4321,12
+"43",1,4164,"Crystal City Express",0,4321,12
+"43",1,4165,"Court House Metro Express",1,4321,58
+"43",1,4166,"Court House Metro Express",1,4321,58
+"43",1,4167,"Court House Metro Express",1,4321,58
+"43",1,4168,"Crystal City Express",0,4332,12
+"43",1,4169,"Court House Metro Express",1,4332,58
+"43",1,4170,"Court House Metro Express",1,4332,58
+"43",1,4171,"Court House Metro Express",1,4332,58
+"43",1,4172,"Court House Metro Express",1,4332,58
+"43",1,4173,"Court House Metro Express",1,4332,58
+"43",1,4174,"Court House Metro Express",1,4332,58
+"43",1,4175,"Court House Metro Express",1,4332,58
+"43",1,4176,"Court House Metro Express",1,4332,58
+"43",1,4177,"Court House Metro Express",1,4332,58
+"43",1,4178,"Court House Metro Express",1,4332,58
+"43",1,4179,"Court House Metro Express",1,4332,58
+"43",1,4180,"Court House Metro Express",1,4332,58
+"45",1,4181,"Rosslyn Metro",1,4521,128
+"45",1,4182,"Columbia Pike & Dinwiddie",0,4521,127
+"45",1,4183,"Rosslyn Metro",1,4521,129
+"45",1,4184,"Columbia Pike & Dinwiddie",0,4521,127
+"45",1,4185,"Rosslyn Metro",1,4521,129
+"45",1,4186,"Columbia Pike & Dinwiddie",0,4521,127
+"45",1,4187,"Rosslyn Metro",1,4521,129
+"45",1,4188,"Columbia Pike & Dinwiddie",0,4521,127
+"45",1,4189,"Rosslyn Metro",1,4521,129
+"45",1,4190,"Columbia Pike & Dinwiddie",0,4521,127
+"45",1,4191,"Rosslyn Metro",1,4522,128
+"45",1,4192,"Columbia Pike & Dinwiddie",0,4522,127
+"45",1,4193,"Rosslyn Metro",1,4522,129
+"45",1,4194,"Columbia Pike & Dinwiddie",0,4522,127
+"45",1,4195,"Rosslyn Metro",1,4522,129
+"45",1,4196,"Columbia Pike & Dinwiddie",0,4522,127
+"45",1,4197,"Rosslyn Metro",1,4522,129
+"45",1,4198,"Columbia Pike & Dinwiddie",0,4522,127
+"45",1,4199,"Rosslyn Metro",1,4522,129
+"45",1,4200,"Columbia Pike & Dinwiddie",0,4522,127
+"45",1,4201,"Rosslyn Metro",1,4523,128
+"45",1,4202,"Columbia Pike & Dinwiddie",0,4523,127
+"45",1,4203,"Rosslyn Metro",1,4523,129
+"45",1,4204,"Columbia Pike & Dinwiddie",0,4523,127
+"45",1,4205,"Rosslyn Metro",1,4523,129
+"45",1,4206,"Columbia Pike & Dinwiddie",0,4523,127
+"45",1,4207,"Rosslyn Metro",1,4523,129
+"45",1,4208,"Columbia Pike & Dinwiddie",0,4523,127
+"45",1,4209,"Rosslyn Metro",1,4523,129
+"45",1,4210,"Columbia Pike & Dinwiddie",0,4523,127
+"45",1,4211,"Rosslyn Metro",1,4530,129
+"45",1,4212,"Columbia Pike & Dinwiddie",0,4530,127
+"45",1,4213,"Rosslyn Metro",1,4530,129
+"45",1,4214,"Columbia Pike & Dinwiddie",0,4530,127
+"45",1,4215,"Rosslyn Metro",1,4530,129
+"45",1,4216,"Columbia Pike & Dinwiddie",0,4530,127
+"45",1,4217,"Rosslyn Metro",1,4530,129
+"45",1,4218,"Columbia Pike & Dinwiddie",0,4530,127
+"45",1,4219,"Rosslyn Metro",1,4530,129
+"45",1,4220,"Columbia Pike & Dinwiddie",0,4530,127
+"45",1,4221,"Rosslyn Metro",1,4530,129
+"45",1,4222,"Columbia Pike & Dinwiddie",0,4530,127
+"45",1,4223,"Rosslyn Metro",1,4531,129
+"45",1,4224,"Columbia Pike & Dinwiddie",0,4531,127
+"45",1,4225,"Rosslyn Metro",1,4531,129
+"45",1,4226,"Columbia Pike & Dinwiddie",0,4531,127
+"45",1,4348,"Rosslyn Metro",1,4531,129
+"45",1,4349,"Columbia Pike & Dinwiddie",0,4531,127
+"45",1,4350,"Rosslyn Metro",1,4531,129
+"45",1,4351,"Columbia Pike & Dinwiddie",0,4531,127
+"45",1,4352,"Rosslyn Metro",1,4531,129
+"45",1,4353,"Columbia Pike & Dinwiddie",0,4531,127
+"45",1,4354,"Rosslyn Metro",1,4531,129
+"45",1,4355,"Columbia Pike & Dinwiddie",0,4531,127
+"45",1,4356,"Rosslyn Metro",1,4532,129
+"45",1,4357,"Columbia Pike & Dinwiddie",0,4532,127

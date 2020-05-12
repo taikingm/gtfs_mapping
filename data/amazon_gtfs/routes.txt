@@ -1,0 +1,68 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2204,92,"BSAM","Bellevue South AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:null|end_date:null|legacy_id:9328,3,,000000,000000
+2205,92,"BSPM","Bellevue South PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9329,3,,FFFFFF,FFFFFF
+2534,92,"ZH","Z - Historical Routes",ZH,3,,FFFFFF,FFFFFF
+2210,92,"","Kirkland Redmond Sweeper",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:20161031|end_date:null|legacy_id:9140,3,,000000,FFFFFF
+2213,92,""," Samm/Issaquah AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:null|end_date:null|legacy_id:9326,3,,000000,FFFFFF
+2214,92,""," Samm/Issaquah PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9327,3,,000000,FFFFFF
+2556,92,"","Z - Unused Routes",,3,,000000,FFFFFF
+2406,92,"Route 29","Route 29 - Prime/Dawson/Cricket",Route 29,3,,F1FF30,FFFFFF
+2407,92,"Route 28","Route 28 - Prime/Cricket/Doppler/Dawson CallOut",Route 28,3,,F1FF30,FFFFFF
+2410,92,"Route 12","Route 12 - Cricket/Blackfoot/Doppler",Route 12,3,,C4C4C4,FFFFFF
+2411,92,"Route 9/16 AM","Route 9/16 AM - Blackfoot/Doppler/Train",Route 9/16 AM,3,,0808FF,FFFFFF
+2549,92,"Route 9/16 PM","Route 9/16 PM - Blackfoot/Doppler/Train",Route 9/16 PM,3,,0808FF,FFFFFF
+2550,92,"Route 11 PM ","Route 11 PM - Campus/Convention Place/7th + Pike",Route 11 PM ,3,,C4C4C4,FFFFFF
+2547,92,"Route 5/6 AM","Route 5/6 AM - Bus Tunnel/Train/Dawson/Arizona",Route 5/6 AM,3,,0808FF,FFFFFF
+2420,92,"Route 14","Route 14 AM - Campus/Convention Place/7th + Pike",Route 14,3,,FFBA30,FFFFFF
+2551,92,"Route 14 Mid Day","Route 14 Mid Day - Otter/Coral/Varzea/Blackfoot",Route 14 Mid Day,3,,A19085,FFFFFF
+2552,92,"Route 14 PM","Route 14 PM - Campus/Convention Place/7th + Pike",Route 14 PM,3,,A19085,FFFFFF
+2421,92,"Route 15 AM","Route 15 AM - Train/Colman/Galaxy",Route 15 AM,3,,0808FF,FFFFFF
+2553,92,"Route 15 PM","Route 15 PM - Galaxy/Colman/Train",Route 15 PM,3,,0808FF,FFFFFF
+2422,92,"Route 17 AM","Route 17 AM - Bus Tunnel/Train/Campus",Route 17 AM,3,,AD1C1C,FFFFFF
+2546,92,"Route 4 PM","Route 4 PM - Houston/Cricket/Arizona/Colman",Route 4 PM,3,,FF0808,FFFFFF
+2554,92,"Route 17 PM","Route 17 PM - Varzea/Otter/Coral/Colman/Train",Route 17 PM,3,,B01D0C,FFFFFF
+2403,92,"Route 4 AM","Route 4 AM - Colman/North Campus",Route 4 AM,3,,FF1212,FFFFFF
+2419,92,"Route 8 AM","Route 8 AM - Colman/Campus call-outs",Route 8 AM,3,,12820A,FFFFFF
+2548,92,"Route 8 PM","Route 8 PM - North/South Campus/Colman",Route 8 PM,3,,0B8F10,FFFFFF
+2424,92,"Route 19 AM","Route 19 AM - Colman/South Campus",Route 19 AM,3,,5F0FFF,FFFFFF
+2555,92,"Route 19 PM","Route 19 PM - Blackfoot/Doppler/Colman",Route 19 PM,3,,C21199,FFFFFF
+2445,92,"Route 21","Route 21 - Train/Colman/Campus Call-Outs",Route 21,3,,11A6D4,FFFFFF
+2525,92,"425AM","Bellevue 425 AM",425AM,3,,FF7700,FFFFFF
+2526,92,"425PM","Bellevue 425 PM",425PM,3,,FF7700,FFFFFF
+2206,92,"","Bothell/Kenmore AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:20161017|end_date:null|legacy_id:9117,3,,000000,FFFFFF
+2208,92,"","Kirkland AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:20161031|end_date:null|legacy_id:9115,3,,000000,FFFFFF
+2211,92,"","Redmond AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:null|end_date:null|legacy_id:9114,3,,000000,FFFFFF
+2623,92,"Route 22 AM - Intern","Route 22 - Intern Route 1 AM",Route 22 AM,3,,307CFF,FFFFFF
+2624,92,"Route 23 AM - Intern","Route 23 - Intern Route 2 AM",Route 23 AM - Intern,3,,307CFF,FFFFFF
+2625,92,"Route 24 AM - Intern","Route 24 - Intern Route 3 AM",Route 24 AM - Intern,3,,307CFF,FFFFFF
+2626,92,"Route 22 PM - Intern","Route 22 - Intern Route 1 PM",Route 22 PM - Intern,3,,307CFF,FFFFFF
+2627,92,"Route 23 PM - Intern","Route 23 - Intern Route 2 PM",Route 23 PM - Intern,3,,307CFF,FFFFFF
+2628,92,"Route 24 PM - Intern","Route 24 - Intern Route 3 PM",Route 24 PM - Intern,3,,307CFF,FFFFFF
+2673,92,"Tracking","Bus Tracking Only",Tracking,3,,000000,FFFFFF
+2675,92,"Mercer AM","Mercer AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:null|end_date:null|legacy_id:9332,3,,FF7700,FFFFFF
+2683,92,"Mercer PM","Mercer PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9333,3,,FF7700,FFFFFF
+2413,92,"Route 11 AM","Route 11 AM - Campus/Convention Place/7th + Pike",Route 11 AM,3,,B3B3B3,FFFFFF
+2400,92,"Route 1 AM","Route 1 AM - TRB/Blackfoot/Cricket",TRB-Blackfoot-Cricket,3,,C4C4C4,FFFFFF
+2544,92,"Route 1 PM","Route 1 PM - Blackfoot/Cricket/TRB",Route 1 PM,3,,C4C4C4,FFFFFF
+2402,92,"Route 2/7","Route 2/7 - Bus Tunnel/Train/Cricket",Route 2/7,3,,0808FF,FFFFFF
+2418,92,"Route 5/6 PM","Route 5/6 PM - Cricket/Bus Tunnel",Route 5/6 PM,3,,0808FF,FFFFFF
+2444,92,"Route 20","Route 20 - Doppler/Cricket/Galaxy",Route 20,3,,C4C4C4,FFFFFF
+2409,92,"Route 25","Route 25 - Cricket/Doppler/Galaxy",Route 25,3,,C4C4C4,FFFFFF
+2408,92,"Route 26","Route 26 - Cricket/Doppler/Blackfoot",Route 26 - Cricket/Doppler,3,,C4C4C4,FFFFFF
+2464,92,"Snoqualmie AM","Snoqualmie AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:null|end_date:null|legacy_id:9341,3,,FF7700,000000
+2482,92,"FF7700","Snoqualmie PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9342,3,,FF7700,000000
+2970,92,"Eastridge AM","Eastridge AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:null|end_date:null|legacy_id:9343,3,,FF7700,000000
+2969,92,"Eastridge PM","Eastridge PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9344,3,,FF7700,000000
+2680,92,"Route 30","Route 30 - Cricket/Everest",Route 30,3,,C4C4C4,FFFFFF
+3410,92,"Route 31","Route 31 - Everest/Cricket",Route 31,3,,C4C4C4,FFFFFF
+2990,92,"Lynnwood","Lynnwood AM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:AM|start_date:20171002|end_date:null|legacy_id:9339,3,,FF7700,FFFFFF
+2207,92,"","Bothell/Kenmore PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:20161017|end_date:null|legacy_id:9124,3,,000000,FFFFFF
+2209,92,"","Kirkland PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9125,3,,000000,FFFFFF
+2991,92,"Lynnwood PM","Lynnwood PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:20171002|end_date:null|legacy_id:9340,3,,FF7700,FFFFFF
+2212,92,"","Redmond PM",service_type:commuter| reservation_days_allowed_in_adv:28|allow_companions:0|num_companions:null|schedule_type:PM|start_date:null|end_date:null|legacy_id:9126,3,,000000,FFFFFF
+3177,92,"Route 32","Route 32- Everest/Blackfoot/Cricket",Route 32,3,,C4C4C4,FFFFFF
+3238,92,"Route 33","Route 33 - Everest/Blackfoot ",Route 33,3,,C4C4C4,FFFFFF
+3301,92,"Route 21 AM","Route 21 AM - Colman/Campus Callouts",Route 21 AM,3,,EE00FF,FFFFFF
+3302,92,"Route 21 PM","Route 21 PM - Stewart-Terry/Doppler/Cricket",Route 21 PM,3,,EE00FF,FFFFFF
+3436,92,"BK-SWEEP","Bothell/Kenmore Sweeper",BK-SWEEP,3,,FF7700,000000
+3437,92,"SI-SWEEP"," Samm/Issaquah Sweeper",SI-SWEEP,3,,FF7700,000000

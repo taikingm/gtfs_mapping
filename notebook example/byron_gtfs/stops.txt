@@ -1,0 +1,28 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,,Lennox Head,Bus Stop at the Professional Center,-28.79748644375431,153.593190908432,,https://www.byronbayshuttle.com.au/locations/gold-coast-airport/lennox-head-cbd/125/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+10,,Byron Bay Visitor Centre,,-28.646042476364876,153.61247062683105,,https://www.byronbayshuttle.com.au/locations/byron-bay-visitor-information-centre/75/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+11,,Casuarina (Northbound),Book online or call Byron Easybus for pickup,-28.304451528751123,153.57097417116165,,,0,,Australia/Sydney,0
+12,,Yelgun Freeway Interchange,,-28.49192,153.52283,,https://www.byronbayshuttle.com.au/locations/yelgun-freeway-interchange/123/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+13,,Casino CBD Visitor Centre,,-28.861325103734398,153.04622411727902,,https://www.byronbayshuttle.com.au/locations/casino-nsw-cbd/99/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+14,,Casuarina (Southbound),Book online or call Byron Easybus for pickup,-28.304338175467116,153.57106000185013,,,0,,Australia/Sydney,0
+15,,Kingscliff (Northbound),Book online or call Byron Easybus for pickup,-28.25558980141482,153.5753434896469,,,0,,Australia/Sydney,0
+16,,Lismore Transit Centre,,-28.80876820601855,153.27549934387207,,https://www.byronbayshuttle.com.au/locations/lismore-transit-centre/87/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+17,,Lismore Southern Cross University,,-28.820199145690662,153.29931735992432,,https://www.byronbayshuttle.com.au/locations/lismore-southern-cross-university/171/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+18,,Goonellabah James Rd Bus Stop,,-28.818055940062166,153.33600997924805,,https://www.byronbayshuttle.com.au/locations/goonellabah/56/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+19,,Wollongbar BP,,-28.82617732825427,153.41521024703977,,https://www.byronbayshuttle.com.au/locations/wollongbar-bp/38/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+2,,Hastings Point (Northbound),Book online or call Byron Easybus for pickup,-28.36157564873346,153.57596576213837,,,0,,Australia/Sydney,0
+20,,Alstonville Trainlink,,-28.841713357535152,153.44003677368164,,https://www.byronbayshuttle.com.au/locations/alstonville/8/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+21,,Ballina Westower Big Prawn,,-28.864237889011925,153.5314679145813,,https://www.byronbayshuttle.com.au/locations/ballina-westower-tavern/122/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+22,,Ballina CBD Tamar St Bus Interchange,,-28.869311578117728,153.56097221374512,,https://www.byronbayshuttle.com.au/locations/ballina-tamar-st-bus-interchange/17/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+23,,Bangalow Trainlink,,-28.68507230924611,153.5245156288147,,https://www.byronbayshuttle.com.au/locations/bangalow-cbd/18/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Sydney,0
+24,,Kingscliff (Southbound),Book online or call Byron Easybus for pickup,-28.25638836033718,153.57654511928558,,,0,,Australia/Sydney,0
+25,,Chinderah (Northbound),Book online or call Byron Easybus for pickup,-28.239366892563588,153.55104267597198,,,0,,Australia/Sydney,0
+26,,Chinderah (Southbound),Book online or call Byron Easybus for pickup,-28.2393574406886,153.55064302682877,,,0,,Australia/Sydney,0
+27,,Pottsville (Northbound),Book online or call Byron Easybus for pickup,-28.384269446613107,153.56706887483597,,,0,,Australia/Sydney,0
+28,,Pottsville (Southbound),Book online or call Byron Easybus for pickup,-28.38439687311716,153.56711983680725,,,0,,Australia/Sydney,0
+3,,Brisbane Domestic Airport,Meeting Point: Bus zone outside terminal - Bus stop A1 or A2 access via Skywalk,-27.385391011965012,153.1196415424347,,http://www.byronbayshuttle.com.au/locations/brisbane-airport-domestic/76/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Brisbane,0
+4,,Brisbane International Airport,Meeting Point: Inside Arrivals Hall wait at Coach Departures sign near exit door,-27.403146953069964,153.1089985370636,,http://www.byronbayshuttle.com.au/locations/brisbane-international/9/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Brisbane,0
+5,,Hastings Point (Southbound),Book online or call Byron Easybus for pickup,-28.36126409443908,153.57584238052368,,,0,,Australia/Sydney,0
+6,,Cabarita Beach (Northbound),Book online or call Byron Easybus for pickup,-28.332304435776138,153.56968939304352,,,0,,Australia/Sydney,0
+7,,Brisbane Roma St Bus Stop,Meeting Point: Bus Stop #125 in front of Transit Centre Opposite Queensland Police building,-27.466192,153.018619,,https://www.byronbayshuttle.com.au/locations/brisbane-roma-st-bus-stop/7/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Brisbane,0
+9,,Gold Coast Airport,Meeting Point: We meet all passengers at the exit door to the bus terminal at the International end of the airport.,-28.166964624180864,153.51350784301755,,https://www.byronbayshuttle.com.au/locations/gold-coast-airport/4/?utm_source=AddTransit&utm_medium=GTFS,0,,Australia/Brisbane,0
