@@ -4,10 +4,10 @@ import folium
 import zipfile
 from shapely.geometry import LineString
 
+
 # Read in all necessary data from GTFS folder
 
-def gtfs_mapping(city_name='amazon'):
-
+def gtfs_mapping(city_name):
     z = zipfile.ZipFile(f"data/{city_name}_gtfs.zip")
     z.extractall(f"data/{city_name}_gtfs")
     agency = pd.read_csv(f"data/{city_name}_gtfs/agency.txt")
@@ -48,19 +48,14 @@ def gtfs_mapping(city_name='amazon'):
     shape_routes = shape_merge.merge(routes, left_on='route_id', right_on='route_id', how='inner')
     shape_routes.crs = {'init': 'epsg:4326'}
 
-    # stops, convert to 4326 in case it was in some other format
-    # sjson = stops_gdf.to_json()
-
     # routes converted to GeoJson
     rjson = shape_routes.to_json()
-
 
     # Function identifying centroid of routes to display original location of map
     def get_feature_centroid(gdf):
         gdf['dissolve'] = 1
         center = gdf.dissolve(by='dissolve').centroid
         return center.x, center.y
-
 
     # Getting Sentriod to display original coordinates for map.
     x, y = get_feature_centroid(shape_routes)
@@ -71,11 +66,9 @@ def gtfs_mapping(city_name='amazon'):
         zoom_start=10,
         tiles='cartodbpositron')
 
-
     # Function to return route color with # in front to display properly for leaflet style_function
     def style_geojson(features):
         return {'color': f"#{features['properties']['route_color']}"}
-
 
     # Display GeoJson of Routes
     folium.GeoJson(
@@ -96,7 +89,7 @@ def gtfs_mapping(city_name='amazon'):
             fill_opacity=500,
         ).add_to(m)
 
-    m.save(f"{html_name}.html")
+    m.save(f"data/{html_name}.html")
 
 
-gtfs_mapping(city_name='amazon')
+gtfs_mapping(city_name='fairfax_cue')
