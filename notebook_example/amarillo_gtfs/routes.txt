@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+12,ACT,,Downtown/North Heights/Amarillo Blvd West/Walmart,This route goes to North Heights,3,,1a75ff,
+21,ACT,,Downtown/Hamlet,This route goes to Hamlet District,3,,66ff66,
+41,ACT,,Downtown / Washington / Amarillo College / Southwest 58TH,This route goes to Downtown/Washington/Amarillo College/Southwest 58th,3,,cc00cc,
+22,ACT,,Downtown/Amarillo BLVD East/North Grand/JO WYATT,This route goes to North Grand,3,,993333,
+42,ACT,,Downtown/Social Security Office/I-27 Access Road,This route goes to Downtown/Social Security Office/I-27 Access Road,3,,ff6699,
+31,ACT,,Downtown / Southeast 10TH / South Grand / Walmart,This route goes to Downtown/Southeast 10th/South Grand/ Walmart,3,,996633,
+32,ACT,,Downtown / Ross Osage / Southeast 34TH,This route goes to Downtown/Ross Osage/Southeast 34th,3,,bf00ff,
+33,ACT,,Downtown/East I-40 Access Rd/Walmart/DPS Office,This route goes to Downtown/East I-40 Access Rd/Walmart/DPS Office,3,,66ffcc,
+44,ACT,,Downtown / Western Ave / Southwest 34TH / Westgate Mall,This route goes to Downtown/Western Ave/Southwest 34th/Westgate Mall,3,,ace600,
+43,ACT,,Downtown / Georgia ST / Southwest 45TH / Westgate Mall,This route goes to Downtown/Georgia ST/Southwest 45th/Westgate Mall,3,,00ccff,
+11,ACT,,Westgate Mall / Hospital / West 9TH Ave / Downtown,This route goes to Westgate Mall/Hospital/West 9th Ave/Downtown,3,,ff0000,
+23,ACT,,Downtown/Amarillo Blvd East/Eastridge/JO Wyatt,This route goes to Downtown/Amarillo Blvd East/Eastridge/JO Wyatt,3,,ffa31a,

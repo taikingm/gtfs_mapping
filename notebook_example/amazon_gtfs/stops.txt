@@ -1,0 +1,47 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+2403864,,"Sunset North","service_type:commuter|is_hub:0|num_parking:90|stop_location_name:3120-3180 139th Ave SE|stop_location_city:Bellevue|stop_location_state:WA|stop_location_zipcode:98005|stop_location_country:USA|legacy_id:207696582",47.580944,-122.15492,,,0,,,0
+2403866,,"Doppler (SEA40)","",47.614796,-122.338952,,,0,,,0
+2403865,,"Brazil (SEA53)","",47.623196,-122.339679,,,0,,,0
+2406032,,"Staples Lot","",47.760497,-122.175448,,,0,,,0
+2407509,,"Everest Building","",47.674322,-122.193489,,,0,,,0
+2409190,,"Overlake Church","service_type:commuter|is_hub:0|num_parking:200|stop_location_name:NE 100th Ct|stop_location_city:Redmond|stop_location_state:WA|stop_location_zipcode:98052|stop_location_country:USA|legacy_id:207696674",47.689037,-122.146506,,,0,,,0
+2411491,,"Sammamish Parking","service_type:commuter|is_hub:0|num_parking:300|stop_location_name:5150 220th Ave SE|stop_location_city:Issaquah|stop_location_state:WA|stop_location_zipcode:98029|stop_location_country:USA|legacy_id:207696751",47.554438,-122.045893,,,0,,,0
+2557442,,"TRB","",47.580368,-122.297158,,,0,,,0
+2557443,,"Blackfoot (SEA33)","",47.615472,-122.33616,,,0,,,0
+2557444,,"Arizona (SEA29)","",47.620072,-122.335861,,,0,,,0
+2557445,,"Cricket (SEA20)","",47.62319,-122.336653,,,0,,,0
+2558046,,"Bus Tunnel/Train Station","",47.597505,-122.326342,,,0,,,0
+2558047,,"Houston/Roxanne (SEA49/SEA37)","",47.620866,-122.338076,,,0,,,0
+2558190,,"Dawson (SEA27)","",47.62152,-122.335851,,,0,,,0
+2560318,,"Prime (SEA36)","",47.6244756305297,-122.331718938658,,,0,,,0
+2560329,,"Stackhouse (SEA57)","",47.6219733635136,-122.330848574638,,,0,,,0
+2560377,,"Alexandria (SEA18)","",47.6150464546731,-122.332928011887,,,0,,,0
+2560378,,"Galaxy (SEA69)","",47.625887,-122.367604,,,0,,,0
+2558191,,"Brazil/Bigfoot/Nessie/Delight (SEA53/SEA38/SEA39/SEA59)","",47.623207,-122.339697,,,0,,,0
+2563030,,"Convention Place","",47.613921,-122.331128,,,0,,,0
+2563400,,"6th & Union (WAC)","",47.610349,-122.333078,,,0,,,0
+2563031,,"7th & Pine","",47.612579,-122.334199,,,0,,,0
+2558182,,"Colman Dock","",47.603129,-122.337699,,,0,,,0
+2562941,,"Mayday (SEA51)","",47.617327,-122.331394,,,0,,,0
+2562942,,"Kumo (SEA58)","",47.616615,-122.334097,,,0,,,0
+2567287,,"4th & Lenora","",47.613946,-122.341213,,,0,,,0
+2558192,,"Apollo (SEA54)","",47.620873,-122.339988,,,0,,,0
+2567372,,"Otter (SEA55)","",47.616426,-122.343915,,,0,,,0
+2558183,,"Coral (SEA68)","",47.615915,-122.343046,,,0,,,0
+2567373,,"Varzea (SEA30)","",47.618224,-122.338863,,,0,,,0
+2568120,,"3rd & Stewart","",47.611652,-122.339578,,,0,,,0
+2568121,,"Hwy 99 & Denny","",47.617584,-122.343568,,,0,,,0
+2607247,,"Spacelabs","service_type:commuter|is_hub:0|num_parking:100|stop_location_name:35469 SE Center St|stop_location_city:Snoqualmie|stop_location_state:WA|stop_location_zipcode:98065|stop_location_country:USA|legacy_id:225567733",47.525875,-121.868758,,,0,,,0
+2607248,,"Eastridge Church","service_type:commuter|is_hub:0|num_parking:150|stop_location_name:24205 SE Issaquah Fall City Rd|stop_location_city:Issaquah|stop_location_state:WA|stop_location_zipcode:98029|stop_location_country:USA|legacy_id:225567981",47.557006,-122.015864,,,0,,,0
+2636558,,"Everest","",47.614367,-122.199137,,,0,,,0
+2757445,,"Lander Hall","",47.655997,-122.314686,,,0,,,0
+2807676,,"Island Synagogue","service_type:commuter|is_hub:0|num_parking:50|stop_location_name:8685 SE 47th St|stop_location_city:Mercer Island|stop_location_state:WA|stop_location_zipcode:98040|stop_location_country:USA|legacy_id:238290539",47.56163,-122.223718,,,0,,,0
+2807677,,"Boys & Girls Club","service_type:commuter|is_hub:0|num_parking:125|stop_location_name:2825 W Mercer Way|stop_location_city:Mercer Island|stop_location_state:WA|stop_location_zipcode:98040|stop_location_country:USA|legacy_id:238290806",47.585223,-122.250044,,,0,,,0
+2976260,,"Lynnwood","service_type:commuter|is_hub:0|num_parking:200|stop_location_name:20852 44th Ave. W|stop_location_city:Lynnwood|stop_location_state:WA|stop_location_zipcode:98036|stop_location_country:USA|legacy_id:241937826",47.809779,-122.293459,,,0,,,0
+3017814,,"Day 1","service_type:commuter|is_hub:1|num_parking:NULL|stop_location_name:2120 6th Ave|stop_location_city:Seattle|stop_location_state:WA|stop_location_zipcode:98121|stop_location_country:USA|legacy_id:247170204",47.615695,-122.340469,,,0,,,0
+3170398,,"Stewart & Terry (Alexandria/Kumo/LowFlyingHawk/Oscar)","",47.615577,-122.332399,,,0,,,0
+3337262,,"Doppler","service_type:commuter|is_hub:1|num_parking:NULL|stop_location_name:2000 6th Ave|stop_location_city:Seattle|stop_location_state:WA|stop_location_zipcode:98121|stop_location_country:USA|legacy_id:207753548",47.614799,-122.339007,,,0,,,0
+3337263,,"Apollo","service_type:commuter|is_hub:1|num_parking:NULL|stop_location_name:325 9th Ave N|stop_location_city:Seattle|stop_location_state:WA|stop_location_zipcode:98109|stop_location_country:USA|legacy_id:238629796",47.620873,-122.339989,,,0,,,0
+3337954,,"Brazil","service_type:commuter|is_hub:1|num_parking:NULL|stop_location_name:Republican St & 9th Ave N|stop_location_city:Seattle|stop_location_state:WA|stop_location_zipcode:98109|stop_location_country:USA|legacy_id:240371222",47.623217,-122.339681,,,0,,,0
+3339447,,"Cash & Carry Lot","service_type:commuter|is_hub:0|num_parking:150|stop_location_name:18396 120th Ave NE|stop_location_city:Bothell|stop_location_state:WA|stop_location_zipcode:98011|stop_location_country:USA|legacy_id:207696830",47.760496,-122.175494,,,0,,,0
+3346982,,"Kirkland","service_type:commuter|is_hub:0|num_parking:100|stop_location_name:210 8th St S|stop_location_city:Kirkland|stop_location_state:WA|stop_location_zipcode:98033|stop_location_country:USA|legacy_id:207696878",47.674353,-122.193605,,,0,,,0
