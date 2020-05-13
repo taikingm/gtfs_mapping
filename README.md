@@ -39,7 +39,8 @@ Project consists of mostly three python libraries:
 In order to get the main.py to work you will have to:
 1. Set up "data" folder in your directory.
 2. Access [Transit Feed](https://transitfeeds.com/feeds) and download any GTFS data (would not work with realtime GTFS) from the list into your "data" directory. The zip file should be "example_data_gtfs.zip" for the code to run properly with minimal edits to the code. For example, if I wanted to download [Amarillo City Transit GTFS Feed](https://transitfeeds.com/p/amarillo-city-transit/1150), I will name my zip file "Amarillo_gtfs.zip".
-3. Open main.py and change the city name within `gtfs_mapping(city_name='amarillo')` on the last line of the code to whatever name you downloaded in step 2 (you will only need to enter in the name prior to _gtfs.zip).
-4. Once the code runs, you should find a unzipped GTFS folder, and a html file of your transit data in your data folder.
-5. The resulting map should looke something like this: 
+3. Open main.py from the code directory.
+4. Change the city name within `gtfs_mapping(city_name='amarillo')` on the last line of the code to whatever name you downloaded in step 2 (you will only need to enter in the name prior to _gtfs.zip).
+5. Once the code runs, you should find a unzipped GTFS folder, and a html file of your transit data in your data folder.
+6. The resulting map should looke something like this: 
    ![https://github.com/taikingm/gtfs_mapping/blob/master/notebook_example/example_screenshot.png?raw=true](https://github.com/taikingm/gtfs_mapping/blob/master/notebook_example/example_screenshot.png?raw=true)
