@@ -92,4 +92,4 @@ def gtfs_mapping(city_name):
     m.save(f"data/{html_name}.html")
 
 
-gtfs_mapping(city_name='fairfax_cue')
+gtfs_mapping(city_name='amarillo')
