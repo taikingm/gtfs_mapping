@@ -1,6 +1,0 @@
-zone_id,zone_name
-768,Zone 1
-769,Zone 2
-770,Zone 3
-2359,Sacramento
-2360,Rancho Murieta

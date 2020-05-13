@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-1,Byron Easybus,https://www.byronbayshuttle.com.au/?utm_source=AddTransit&utm_medium=GTFS,Australia/Sydney,en,61 (0)2 6685 7447,http://www.byronbayshuttle.com.au/?utm_source=AddTransit&utm_medium=GTFS,info@byronbus.com

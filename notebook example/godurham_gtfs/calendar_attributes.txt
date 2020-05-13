@@ -1,7 +1,0 @@
-service_id,service_description
-c_19867_b_26346_d_127,Reduced Service Phase 3 (COVID-19) (All days of week)
-c_18568_b_24428_d_31,DPS Out or Releasing Early (9B) (Weekday)
-c_18567_b_24427_d_31,DPS In Session (9B-NHS) (Weekday)
-c_18072_b_22720_d_64,Year-Round Service (Sunday only)
-c_18072_b_22720_d_32,Year-Round Service (Saturday only)
-c_18072_b_22720_d_31,Year-Round Service (Weekday)

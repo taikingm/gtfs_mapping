@@ -1,2 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-c_19800_b_26267_d_31,Reduced Service (Microtransit) (Weekday),1,1,1,1,1,0,0,20200413,20200531

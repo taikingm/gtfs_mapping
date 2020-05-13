@@ -1,7 +1,0 @@
-route_id,direction_id,direction
-661,,Eastbound
-661,1,Westbound
-570,,Eastbound
-570,1,Westbound
-569,,Eastbound
-569,1,Westbound
