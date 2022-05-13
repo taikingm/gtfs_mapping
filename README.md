@@ -10,7 +10,7 @@ This project was inteded to take in GTFS data to visualize the routes and stops 
 
 ## Background
 
-I have always been interested in public transportation and how it's shaped by the city as well as how it shapes the city it's in. Creating an visualization of movement of the transit system allows people to estimate a lot of different aspects of the city from where the central distric is, where do people commute from, or how the region has been spreading over time. I do not have a lot of experience with GTFS data, but would like to find an standard way of displaying routes and movement as soon as reading in the GTFS file without going through the task of setting up the base map, reading the lines, gps points etc.
+I have always been interested in public transportation and how it's shaped by the city as well as how it shapes the city it's in. Creating a visualization of movement of the transit system allows people to estimate a lot of different aspects of the city from where the central distric is, where do people commute from, or how the region has been spreading over time. I do not have a lot of experience with GTFS data, but would like to find a standard way of displaying routes and movement as soon as reading in the GTFS file without going through the task of setting up the base map, reading the lines, gps points etc.
 
 ## Resources
 
